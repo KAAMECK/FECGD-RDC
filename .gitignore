@@ -1,0 +1,17 @@
+# Configuration locale des outils et de l’hébergement
+.openai/
+.sites-runtime/
+.codex/
+.env
+.env.*
+!.env.example
+
+# Fichiers temporaires
+tmp-assets/
+tmp/
+*.log
+*.tar.gz
+*.zip
+node_modules/
+.DS_Store
+Thumbs.db
