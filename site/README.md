@@ -30,3 +30,7 @@ Les nouveaux logos remplacent leurs versions précédentes. Les photos fournies 
 Le texte suit une progression : présentation, enjeux en RDC, activités complémentaires, valorisation et objectifs. Les informations sanitaires et l’exemple de pavés en plastique recyclé renvoient aux sources OMS et PNUE dans la page. L’exemple kényan n’est pas présenté comme une réalisation de la fédération.
 
 Les photos utilisées sont optimisées en WebP sans métadonnées EXIF. Le fichier media-sources.json conserve leurs correspondances avec les originaux.
+
+## Qualité des photos
+
+Les huit photos possèdent des variantes 1200 et 2400 pixels (WebP qualité 96) et une version pleine résolution de 4032 × 3024 pixels sans perte. Les liens d’agrandissement ouvrent cette dernière. Ses pixels sont vérifiés identiques à ceux du JPEG source décodé, orientation appliquée. Aucun filtre, aucune retouche de visage ni reconstruction générative ; les métadonnées EXIF sont retirées. Les flous et surexpositions présents dans les sources restent présents.
