@@ -38,3 +38,7 @@ Les huit photos possèdent des variantes 1200 et 2400 pixels (WebP qualité 96) 
 ## Première journée — 26 septembre 2026
 
 Rubrique Actualités fondée sur https://www.greenimpacttv.com/article?id=203 (Serge GATA, Green Impact Média). Les quatre photos issues de Medias/2 sont conservées à leur résolution native 1280 × 960, exportées en WebP sans perte et sans métadonnées. Les visages et le contenu ne sont pas retouchés. Les deux vidéos du dossier ne sont pas intégrées. Les actions annoncées dans l’article sont présentées comme des projets, pas comme des réalisations.
+
+## Logo officiel
+
+Le logo circulaire fourni est conservé dans `Medias/logo-officiel-fecgd-rdc.png`. Il remplace les logos de l’en-tête, de la présentation de la fédération et du pied de page, ainsi que le favicon. Les fichiers WebP sont sans perte et conservent les pixels de la source ; le favicon est une réduction à 64 pixels.
