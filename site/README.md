@@ -22,3 +22,7 @@ Le nom et les trois domaines d’action proviennent des logos fournis. Les texte
 Textes et sections : `dist/index.html`. Couleurs et responsive : `dist/styles.css`. Menu mobile et navigation active : `dist/app.js`.
 
 Les coordonnées officielles et les photographies d’actions réelles pourront être ajoutées lorsqu’elles seront fournies.
+
+## Mise à jour des médias — 1er octobre 2026
+
+Les deux logos portant le suffixe « copie » remplacent les anciennes versions correspondantes. L’emblème et le favicon utilisent ces nouveaux visuels. Trois photographies de réunion fournies dans Medias sont intégrées dans la section « La fédération en images », en WebP optimisé et sans métadonnées EXIF. Les légendes ne supposent ni identité, ni lieu, ni objet officiel de la rencontre.
