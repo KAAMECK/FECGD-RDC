@@ -14,15 +14,19 @@ Le nom et les trois domaines d’action proviennent des logos fournis. Les texte
 ## Médias
 
 - Logos fournis dans le dossier `Medias`, adaptés au format WebP.
-- Illustration végétale : Geio Tischler / Unsplash, https://unsplash.com/photos/an-aerial-view-of-a-lush-green-forest-UtilSW8zuZk, licence Unsplash. Photographie prise à Bali, utilisée comme illustration environnementale générique, pas comme reportage sur la RDC ou la fédération.
+- Ancienne illustration végétale, conservée mais non affichée : Geio Tischler / Unsplash, https://unsplash.com/photos/an-aerial-view-of-a-lush-green-forest-UtilSW8zuZk, licence Unsplash. Photographie prise à Bali, utilisée comme illustration environnementale générique, pas comme reportage sur la RDC ou la fédération.
 - Polices DM Sans et Manrope chargées depuis Google Fonts avec polices système de secours.
 
 ## Personnalisation
 
 Textes et sections : `dist/index.html`. Couleurs et responsive : `dist/styles.css`. Menu mobile et navigation active : `dist/app.js`.
 
-Les coordonnées officielles et les photographies d’actions réelles pourront être ajoutées lorsqu’elles seront fournies.
+Les coordonnées officielles pourront être ajoutées lorsqu’elles seront fournies.
 
-## Mise à jour des médias — 1er octobre 2026
+## Présentation actuelle
 
-Les deux logos portant le suffixe « copie » remplacent les anciennes versions correspondantes. L’emblème et le favicon utilisent ces nouveaux visuels. Trois photographies de réunion fournies dans Medias sont intégrées dans la section « La fédération en images », en WebP optimisé et sans métadonnées EXIF. Les légendes ne supposent ni identité, ni lieu, ni objet officiel de la rencontre.
+Les nouveaux logos remplacent leurs versions précédentes. Les photos fournies dans Medias sont réparties entre l’accueil, la présentation de la fédération, les activités et l’engagement. Les photos du contenu sont agrandissables au clic. La galerie animée a été retirée.
+
+Le texte suit une progression : présentation, enjeux en RDC, activités complémentaires, valorisation et objectifs. Les informations sanitaires et l’exemple de pavés en plastique recyclé renvoient aux sources OMS et PNUE dans la page. L’exemple kényan n’est pas présenté comme une réalisation de la fédération.
+
+Les photos utilisées sont optimisées en WebP sans métadonnées EXIF. Le fichier media-sources.json conserve leurs correspondances avec les originaux.
