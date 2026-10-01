@@ -34,3 +34,7 @@ Les photos utilisées sont optimisées en WebP sans métadonnées EXIF. Le fichi
 ## Qualité des photos
 
 Les huit photos possèdent des variantes 1200 et 2400 pixels (WebP qualité 96) et une version pleine résolution de 4032 × 3024 pixels sans perte. Les liens d’agrandissement ouvrent cette dernière. Ses pixels sont vérifiés identiques à ceux du JPEG source décodé, orientation appliquée. Aucun filtre, aucune retouche de visage ni reconstruction générative ; les métadonnées EXIF sont retirées. Les flous et surexpositions présents dans les sources restent présents.
+
+## Première journée — 26 septembre 2026
+
+Rubrique Actualités fondée sur https://www.greenimpacttv.com/article?id=203 (Serge GATA, Green Impact Média). Les quatre photos issues de Medias/2 sont conservées à leur résolution native 1280 × 960, exportées en WebP sans perte et sans métadonnées. Les visages et le contenu ne sont pas retouchés. Les deux vidéos du dossier ne sont pas intégrées. Les actions annoncées dans l’article sont présentées comme des projets, pas comme des réalisations.
