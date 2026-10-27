@@ -15,3 +15,18 @@ tmp/
 node_modules/
 .DS_Store
 Thumbs.db
+
+# Simulation WordPress locale et données confidentielles
+simulation/
+local-private/
+Medias/Statut*.pdf
+
+# WordPress installé, accès et documents privés
+site/wordpress/
+wordpress-src/.env*
+wordpress-src/wp-config.php
+
+# Documents internes et sorties de travail
+Medias/*.xlsx
+Medias/*.pdf
+output/

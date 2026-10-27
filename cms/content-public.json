@@ -1,0 +1,278 @@
+{
+    "contents": [
+        {
+            "kind": "page",
+            "slug": "accueil",
+            "title": "Accueil",
+            "excerpt": "Les entreprises de la filière des déchets réunies en RDC.",
+            "content": "<section class=\"hero\" id=\"accueil\">\n      <div class=\"hero-image\" role=\"img\" aria-label=\"Photo de groupe des participants à une rencontre\"></div>\n      <div class=\"hero-shade\"></div>\n      <div class=\"wrap hero-inner\"><div class=\"hero-copy\">\n        <p class=\"eyebrow light\"><span></span> FECGD-RDC</p>\n        <h1>Les entreprises de la <br>filière des déchets <br><em>réunies en RDC.</em></h1>\n        <p class=\"hero-description\">La FECGD-RDC est la Fédération des entreprises de collecte, de gestion et de valorisation des déchets de la République démocratique du Congo. Elle rassemble des métiers complémentaires autour d’un même enjeu : améliorer la prise en charge des déchets.</p>\n        <div class=\"hero-actions\"><a class=\"button lime\" href=\"/FECGD-DRC/federation/\">Découvrir la Fédération <span aria-hidden=\"true\">↗</span></a><a class=\"text-link\" href=\"/FECGD-DRC/activites/\">Nos domaines d’action <span aria-hidden=\"true\">↓</span></a></div>\n      </div><div class=\"hero-caption\"><span class=\"caption-line\"></span><p>Collecte, gestion et valorisation.<br><strong>Les métiers représentés par la fédération.</strong></p></div></div>\n      <div class=\"hero-bottom wrap\"><span>FECGD-RDC · PRÉSENTATION DE LA FÉDÉRATION</span><a href=\"/FECGD-DRC/federation/\" aria-label=\"Découvrir la suite\">Défiler pour découvrir <span aria-hidden=\"true\">↓</span></a></div>\n    </section><section class=\"home-next wrap\"><p class=\"eyebrow\">LA FÉDÉRATION</p><h2>Un cadre commun pour les métiers des déchets.</h2><p>La FECGD-RDC est une association sans but lucratif de droit congolais. Établie à Kinshasa, elle a vocation à représenter, défendre et promouvoir les intérêts professionnels de ses membres à l’échelle nationale.</p><a class=\"button lime\" href=\"/FECGD-DRC/federation/\">Découvrir la fédération ↗</a></section><section class=\"home-next wrap\"><p class=\"eyebrow\">ACTUALITÉS</p><h2>La vie de la fédération.</h2>[fecgd_actualites]</section><section class=\"together wrap\"><h2>Votre activité fait partie de la filière ?</h2><p>Découvrez les métiers représentés et présentez votre organisation à la fédération.</p><a class=\"button lime\" href=\"/FECGD-DRC/adhesion/\">Préparer une demande ↗</a></section>",
+            "status": "published",
+            "posted_at": "2026-10-03 21:34:36",
+            "images": "[]"
+        },
+        {
+            "kind": "page",
+            "slug": "federation",
+            "title": "La Fédération",
+            "excerpt": "Découvrez la vocation, le siège et le champ d’intervention de la FECGD-RDC.",
+            "content": "<dl class=\"legal-facts\"><div><dt>Nature</dt><dd>Association sans but lucratif de droit congolais</dd></div><div><dt>Siège</dt><dd>16, avenue LOKELE (immeuble ONGENDANGENDA), quartier de la Gare, commune de la Gombe, ville-province de Kinshasa, République démocratique du Congo.</dd></div><div><dt>Champ d’intervention</dt><dd>Ensemble du territoire de la RDC</dd></div><div><dt>Vocation</dt><dd>Représenter, défendre et promouvoir les intérêts professionnels des membres</dd></div></dl><section class=\"section federation wrap\" id=\"federation\">\n      <div class=\"federation-moments\"><a class=\"story-photo\" href=\"/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-01.webp\" target=\"_blank\" rel=\"noopener\" aria-label=\"Agrandir la photo (nouvel onglet)\"><img width=\"1024\" height=\"768\" src=\"/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-01.webp\" class=\"attachment-large size-large\" alt=\"Participants réunis autour de la table\" loading=\"lazy\" /></a><div class=\"photo-signature\"><img src=\"/FECGD-DRC/site/dist/assets/emblem.webp?v=logo-officiel-20261001\" alt=\"Emblème FECGD-RDC\" width=\"100\" height=\"100\" loading=\"lazy\"><span>FECGD-RDC<br><strong>Les entreprises de la filière.</strong></span></div><a class=\"story-photo supporting-photo\" href=\"/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-07.webp\" target=\"_blank\" rel=\"noopener\" aria-label=\"Agrandir la photo (nouvel onglet)\"><img width=\"1024\" height=\"768\" src=\"/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-07.webp\" class=\"attachment-large size-large\" alt=\"Participants assis autour de la table pendant les échanges\" loading=\"lazy\" /></a></div>\n      <div class=\"federation-copy\"><p class=\"eyebrow\">LA FÉDÉRATION</p><h2>Pourquoi réunir<br>ces <em>entreprises ?</em></h2><p class=\"lead\">La collecte ne suffit pas à elle seule : les déchets doivent ensuite être triés, orientés et traités selon leur nature.</p><p>Ces tâches font intervenir des entreprises aux compétences différentes. Leur travail est lié : la manière dont un déchet est collecté et trié conditionne les possibilités de le valoriser par la suite.</p><p>C’est dans cette continuité que s’inscrit la FECGD-RDC. Sa vocation est de rapprocher les entreprises de la filière pour favoriser les échanges et une meilleure articulation de leurs activités.</p><a class=\"inline-link\" href=\"/FECGD-DRC/activites/#enjeux\">Comprendre les enjeux en RDC <span aria-hidden=\"true\">↗</span></a></div>\n    </section><h2>Une organisation professionnelle nationale</h2><p>Les statuts prévoient un cadre de concertation entre les opérateurs de la filière et les pouvoirs publics. La fédération est apolitique, non confessionnelle et sans but lucratif. Elle vise notamment la professionnalisation du secteur et l’amélioration de la qualité des services.</p>",
+            "status": "published",
+            "posted_at": "2026-10-03 21:34:36",
+            "images": "[]"
+        },
+        {
+            "kind": "page",
+            "slug": "activites",
+            "title": "Nos activités",
+            "excerpt": "Collecte, gestion et valorisation : comprendre le parcours des déchets et les enjeux en RDC.",
+            "content": "<section class=\"section context-section wrap\" id=\"enjeux\" aria-labelledby=\"enjeux-title\">\n      <p class=\"eyebrow\">LES ENJEUX EN RDC</p>\n      <h2 id=\"enjeux-title\">Des conséquences sur les rues,<br>les canalisations et <em>la santé.</em></h2>\n      <p class=\"context-intro\">En RDC, améliorer la gestion des déchets répond à des difficultés visibles au quotidien. Quand les déchets s’accumulent dans les rues et les caniveaux, ils dégradent le cadre de vie et perturbent l’évacuation des eaux. Le problème dépasse donc la seule propreté.</p>\n      <div class=\"context-grid\">\n        <article><h3>Des canalisations obstruées</h3><p>Les déchets peuvent boucher les caniveaux et les conduites d’évacuation. L’eau s’écoule moins bien, stagne ou déborde lors des pluies, ce qui augmente le risque d’inondation et peut contribuer à la dégradation des routes et des ouvrages d’assainissement.</p></article>\n        <article><h3>Des risques pour la santé</h3><p>Les déchets en décomposition dégagent de mauvaises odeurs. Les dépôts attirent notamment les mouches, et les eaux stagnantes favorisent les moustiques. La contamination de l’eau, des sols ou des aliments par des agents pathogènes peut aussi exposer les habitants à des maladies.</p></article>\n        <article><h3>Des rues sales et encombrées</h3><p>Les déchets abandonnés sur les chaussées et leurs abords rendent les déplacements et l’entretien plus difficiles. Leur accumulation entretient l’insalubrité dans les quartiers et détériore les espaces utilisés chaque jour par les habitants.</p></article>\n      </div>\n      <p class=\"context-conclusion\">Pour agir sur ces conséquences, il faut assurer une continuité entre l’enlèvement des déchets, leur tri et leur traitement. C’est ce lien entre les métiers que la fédération cherche à renforcer.</p>\n      <p class=\"source-note\">Pour comprendre les liens entre déchets et santé : <a href=\"https://www.who.int/tools/compendium-on-health-and-environment/solid-waste\" target=\"_blank\" rel=\"noopener\">repères de l’Organisation mondiale de la Santé</a>.</p>\n    </section><section class=\"expertise-section\" id=\"expertises\"><div class=\"wrap section\">\n      <div class=\"section-heading\"><div><p class=\"eyebrow\">NOS DOMAINES D’ACTION</p><h2>Comment ces activités<br>se <em>complètent.</em></h2></div><p>La collecte prend en charge les déchets.<br>La gestion organise leur parcours et la valorisation<br>permet de récupérer ce qui peut encore servir.</p></div>\n      [fecgd_domaines]<aside class=\"innovation-note\" aria-labelledby=\"innovation-title\"><p class=\"eyebrow\">UN EXEMPLE DE VALORISATION</p><h3 id=\"innovation-title\">Transformer le plastique en matériaux utiles</h3><p>Des initiatives transforment des déchets plastiques triés en pavés, notamment en les associant à du sable. Cette approche ouvre des débouchés dans l’aménagement et la construction : une matière abandonnée peut devenir une ressource pour fabriquer un produit.</p><p>Ces usages demandent des procédés maîtrisés et des matériaux dont la qualité, la durabilité et la sécurité sont vérifiées pour l’utilisation prévue. Ils constituent une piste de valorisation, et non une solution applicable à tous les plastiques ou à tous les ouvrages.</p><p class=\"source-note\">Exemple documenté au Kenya : <a href=\"https://www.unep.org/news-and-stories/story/building-blocks-greener-nairobi\" target=\"_blank\" rel=\"noopener\">les pavés en plastique recyclé de Gjenge Makers, présentés par le PNUE</a>.</p></aside>\n<div class=\"meeting-pair\"><a class=\"story-photo\" href=\"/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-03.webp\" target=\"_blank\" rel=\"noopener\" aria-label=\"Agrandir la photo (nouvel onglet)\"><img width=\"1024\" height=\"768\" src=\"/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-03.webp\" class=\"attachment-large size-large\" alt=\"Échanges entre les participants pendant la rencontre\" loading=\"lazy\" /></a><a class=\"story-photo\" href=\"/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-04.webp\" target=\"_blank\" rel=\"noopener\" aria-label=\"Agrandir la photo (nouvel onglet)\"><img width=\"1024\" height=\"768\" src=\"/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-04.webp\" class=\"attachment-large size-large\" alt=\"Vue de la réunion depuis le bout de la table\" loading=\"lazy\" /></a><p>Participants réunis lors d’une rencontre.</p></div>\n    </div></section><section class=\"section engagement wrap\" id=\"engagement\"><div><p class=\"eyebrow\">NOTRE ENGAGEMENT</p><h2>Ce que cette coopération<br>doit <em>améliorer.</em></h2><p>La coopération entre entreprises doit permettre de répondre aux deux dimensions du problème : réduire les déchets qui encombrent les rues et les caniveaux, puis développer des débouchés pour les matières récupérables.</p><a class=\"story-photo engagement-photo\" href=\"/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-02.webp\" target=\"_blank\" rel=\"noopener\" aria-label=\"Agrandir la photo (nouvel onglet)\"><img width=\"1024\" height=\"768\" src=\"/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-02.webp\" class=\"attachment-large size-large\" alt=\"Participants échangeant autour de la table\" loading=\"lazy\" /></a></div><div class=\"principles\"><article><span>01</span><div><h3>Mieux relier les interventions</h3><p>Faciliter les échanges entre entreprises pour que la collecte débouche sur une solution de tri, de traitement ou de valorisation adaptée.</p></div></article><article><span>02</span><div><h3>Préparer la valorisation dès le tri</h3><p>Séparer les déchets selon leur nature permet de préserver les matières récupérables et d’orienter les autres vers une prise en charge appropriée.</p></div></article><article><span>03</span><div><h3>Limiter les déchets abandonnés</h3><p>L’objectif est de contribuer à réduire l’accumulation de déchets dans les lieux de vie et les milieux naturels, en améliorant leur prise en charge sur l’ensemble du parcours.</p></div></article><a class=\"story-photo supporting-photo\" href=\"/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-08.webp\" target=\"_blank\" rel=\"noopener\" aria-label=\"Agrandir la photo (nouvel onglet)\"><img width=\"1024\" height=\"768\" src=\"/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-08.webp\" class=\"attachment-large size-large\" alt=\"Vue d’ensemble des participants à la rencontre\" loading=\"lazy\" /></a></div></section>",
+            "status": "published",
+            "posted_at": "2026-10-03 21:34:36",
+            "images": "[]"
+        },
+        {
+            "kind": "page",
+            "slug": "actualites",
+            "title": "Actualités",
+            "excerpt": "Les rencontres et les publications de la FECGD-RDC.",
+            "content": "<p>Retrouvez les comptes rendus des rencontres et les publications de la fédération.</p>[fecgd_actualites]",
+            "status": "published",
+            "posted_at": "2026-10-03 21:34:36",
+            "images": "[]"
+        },
+        {
+            "kind": "page",
+            "slug": "faq",
+            "title": "Questions fréquentes",
+            "excerpt": "Les réponses aux questions sur la fédération, ses activités et les demandes d’adhésion.",
+            "content": "<div class=\"faq-list\"><details><summary>Qu’est-ce que la FECGD-RDC ?</summary><p>La Fédération des entreprises de collecte, de gestion et de valorisation des déchets de la République démocratique du Congo est une association sans but lucratif de droit congolais.</p></details><details><summary>Où se trouve son siège ?</summary><p>Les bureaux se trouvent au 16, avenue LOKELE (immeuble ONGENDANGENDA), quartier de la Gare, commune de la Gombe, ville-province de Kinshasa, République démocratique du Congo. En face de la chambre froide Socimex et à côté d’ORCA.</p></details><details><summary>Dans quelles zones intervient-elle ?</summary><p>Son champ d’intervention statutaire couvre l’ensemble du territoire de la République démocratique du Congo.</p></details><details><summary>Quels métiers sont concernés ?</summary><p>La filière comprend notamment la collecte, le transport, le tri, le traitement, le recyclage et la valorisation des déchets.</p></details><details><summary>À quoi sert la fédération ?</summary><p>Elle a pour vocation de représenter, défendre et promouvoir les intérêts professionnels de ses membres, de favoriser la concertation et de contribuer à la professionnalisation des services.</p></details><details><summary>Comment présenter une demande d’adhésion ?</summary><p>Présentez votre organisation avec le formulaire d’adhésion. La fédération vous précisera les pièces à fournir et les modalités applicables. Une demande ne vaut pas admission automatique.</p></details><details><summary>La demande entraîne-t-elle une admission automatique ?</summary><p>Non. Une demande doit être examinée selon les conditions d’admission de la fédération. Les responsables de la fédération assurent le suivi de votre demande.</p></details><details><summary>Comment contacter la fédération ?</summary><p>Utilisez le formulaire de contact pour une question, une prise de contact ou une proposition de collaboration. Votre message sera enregistré pour être consulté par les responsables.</p></details><details><summary>Comment ajouter une actualité ou une photo ?</summary><p>Les responsables autorisés utilisent l’administration FECGD pour gérer les actualités, les activités et les photos.</p></details><details><summary>Comment sont utilisées les données des formulaires ?</summary><p>Les données des formulaires sont réservées aux responsables qui traitent les demandes. Les statistiques sont agrégées ; les exports d’inscriptions ne contiennent pas les emails ni les téléphones. Vous pouvez demander la correction ou la suppression de vos informations auprès du responsable du site.</p></details></div>",
+            "status": "published",
+            "posted_at": "2026-10-03 21:34:36",
+            "images": "[]"
+        },
+        {
+            "kind": "page",
+            "slug": "contact",
+            "title": "Contact",
+            "excerpt": "Prendre contact avec la FECGD-RDC.",
+            "content": "<div class=\"fecgd-form-layout\"><div>[fecgd_contact]</div><aside class=\"contact-aside\"><h2>Échanger avec la fédération</h2><p>Pour une question sur la filière, une prise de contact ou une proposition de collaboration.</p><p><strong>Adresse :</strong> 16, avenue LOKELE (immeuble ONGENDANGENDA), quartier de la Gare, commune de la Gombe, ville-province de Kinshasa, République démocratique du Congo.</p><p><strong>Repères :</strong> En face de la chambre froide Socimex et à côté d’ORCA.</p>[fecgd_whatsapp]<p>Les coordonnées téléphoniques et électroniques seront renseignées après validation par la fédération.</p></aside></div>",
+            "status": "published",
+            "posted_at": "2026-10-03 21:34:36",
+            "images": "[]"
+        },
+        {
+            "kind": "page",
+            "slug": "adhesion",
+            "title": "Demande d’adhésion",
+            "excerpt": "Présenter une organisation et demander à rejoindre la fédération.",
+            "content": "<p>Présentez votre organisation et son activité dans la filière des déchets. La fédération examinera votre demande selon ses conditions d’admission. L’envoi du formulaire ne vaut pas adhésion automatique.</p>[fecgd_adhesion]",
+            "status": "published",
+            "posted_at": "2026-10-03 21:34:36",
+            "images": "[]"
+        },
+        {
+            "kind": "page",
+            "slug": "mentions-legales",
+            "title": "Mentions et confidentialité",
+            "excerpt": "Identité de la fédération et fonctionnement de la simulation locale.",
+            "content": "<h2>Identité de la fédération</h2><p>Fédération des entreprises de collecte, de gestion et de valorisation des déchets de la République démocratique du Congo — FECGD-RDC.</p><dl class=\"legal-facts\"><div><dt>Nature</dt><dd>Association sans but lucratif de droit congolais</dd></div><div><dt>Siège</dt><dd>16, avenue LOKELE (immeuble ONGENDANGENDA), quartier de la Gare, commune de la Gombe, ville-province de Kinshasa, République démocratique du Congo.</dd></div><div><dt>Champ d’intervention</dt><dd>Ensemble du territoire de la RDC</dd></div><div><dt>Vocation</dt><dd>Représenter, défendre et promouvoir les intérêts professionnels des membres</dd></div></dl><h2>Traitement des demandes et statistiques</h2><p>Les formulaires enregistrent les informations nécessaires au traitement de vos messages et demandes d’adhésion. Seuls les responsables autorisés peuvent consulter ces informations, suivre les demandes ou les supprimer.</p><p>Les visites locales sont comptées par sessions de 30 minutes et par pages consultées. Les adresses IP ne sont pas conservées dans les statistiques. Un cookie temporaire permet le comptage des sessions.</p><p>Le tableau Google Sheets utilise des exemples fictifs clairement identifiés. Une synchronisation réelle, si elle est activée, transmet uniquement les agrégats et les colonnes d’inscription indiquées dans l’administration, sans email ni téléphone.</p><h2>Références administratives</h2><p>Le numéro RCCM et les autres références d’enregistrement seront ajoutés après réception d’un justificatif qui les indique clairement. Le document des statuts n’est pas publié sur ce site.</p>",
+            "status": "published",
+            "posted_at": "2026-10-03 21:34:36",
+            "images": "[]"
+        },
+        {
+            "kind": "news",
+            "slug": "premiere-journee-26-septembre-2026",
+            "title": "Première journée : ouvrir le dialogue entre les acteurs de la filière",
+            "excerpt": "À l’Hôtel Léon 2, à Kinshasa, une première rencontre de concertation a réuni les entreprises et les partenaires du secteur le 26 septembre 2026.",
+            "content": "<section class=\"section event-section wrap\" id=\"actualites\" aria-label=\"Compte rendu de la première journée\">\n      <div class=\"event-heading\"><p class=\"eyebrow\">LA VIE DE LA FÉDÉRATION</p><p class=\"event-date\"><time datetime=\"2026-09-26\">Samedi 26 septembre 2026</time> · Kinshasa, Gombe</p></div>\n      <div class=\"event-feature\"><div class=\"event-copy\">\n      <p class=\"lead\">À l’Hôtel Léon 2, la FECGD-RDC a tenu une première rencontre de prise de contact et de concertation avec les entreprises et les partenaires du secteur.</p>\n      <p>Selon le compte rendu de Green Impact TV, les échanges ont réuni des PME, des représentants de la REGEDEK et des partenaires techniques, financiers et institutionnels. Ils ont porté sur les besoins des entreprises : financement, renforcement des capacités et professionnalisation des services.</p>\n      <p>La suite annoncée comprend la préparation de termes de référence pour organiser la collaboration, ainsi que des actions de sensibilisation auprès des ménages. Ces démarches étaient encore en préparation au moment de la rencontre.</p>\n      <a class=\"inline-link\" href=\"https://www.greenimpacttv.com/article?id=203\" target=\"_blank\" rel=\"noopener\">Lire le compte rendu de Green Impact TV <span aria-hidden=\"true\">↗</span></a><p class=\"source-note\">Source : Serge GATA, Green Impact Média, 26 septembre 2026.</p></div>\n      <figure class=\"event-main-photo\"><a class=\"story-photo\" href=\"/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-09.webp\" target=\"_blank\" rel=\"noopener\" aria-label=\"Agrandir la photo de groupe du 26 septembre (nouvel onglet)\"><img width=\"1024\" height=\"768\" src=\"/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-09.webp\" class=\"attachment-large size-large\" alt=\"Photo de groupe des participants à la première journée du 26 septembre 2026\" loading=\"lazy\" /></a><figcaption>Les participants à la première journée de rencontre.</figcaption></figure></div>\n      <div class=\"event-photos\">\n        <figure><a class=\"story-photo\" href=\"/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-10.webp\" target=\"_blank\" rel=\"noopener\" aria-label=\"Agrandir la photo des participants (nouvel onglet)\"><img width=\"1024\" height=\"768\" src=\"/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-10.webp\" class=\"attachment-large size-large\" alt=\"Participants assis dans l’espace de rencontre\" loading=\"lazy\" /></a><figcaption>Les participants réunis pour les échanges.</figcaption></figure>\n        <figure><a class=\"story-photo\" href=\"/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-11.webp\" target=\"_blank\" rel=\"noopener\" aria-label=\"Agrandir la photo de concertation (nouvel onglet)\"><img width=\"1024\" height=\"768\" src=\"/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-11.webp\" class=\"attachment-large size-large\" alt=\"Intervenants installés autour d’une table avec un ordinateur\" loading=\"lazy\" /></a><figcaption>Un temps de concertation.</figcaption></figure>\n        <figure><a class=\"story-photo\" href=\"/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-12.webp\" target=\"_blank\" rel=\"noopener\" aria-label=\"Agrandir la photo des échanges (nouvel onglet)\"><img width=\"1024\" height=\"768\" src=\"/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-12.webp\" class=\"attachment-large size-large\" alt=\"Prise de parole pendant la rencontre du 26 septembre\" loading=\"lazy\" /></a><figcaption>Une prise de parole pendant la rencontre.</figcaption></figure>\n      </div>\n    </section>",
+            "status": "published",
+            "posted_at": "2026-09-26 18:40:00",
+            "images": "[{\"src\":\"\\/FECGD-DRC\\/site\\/dist\\/assets\\/wp-media\\/2026\\/10\\/rencontre-fecgd-09.webp\",\"alt\":\"Photo de groupe des participants \\u00e0 la premi\\u00e8re journ\\u00e9e du 26 septembre 2026\"},{\"src\":\"\\/FECGD-DRC\\/site\\/dist\\/assets\\/wp-media\\/2026\\/10\\/rencontre-fecgd-10.webp\",\"alt\":\"Participants assis dans l\\u2019espace de rencontre\"},{\"src\":\"\\/FECGD-DRC\\/site\\/dist\\/assets\\/wp-media\\/2026\\/10\\/rencontre-fecgd-11.webp\",\"alt\":\"Intervenants install\\u00e9s autour d\\u2019une table avec un ordinateur\"},{\"src\":\"\\/FECGD-DRC\\/site\\/dist\\/assets\\/wp-media\\/2026\\/10\\/rencontre-fecgd-12.webp\",\"alt\":\"Prise de parole pendant la rencontre du 26 septembre\"}]"
+        },
+        {
+            "kind": "news",
+            "slug": "les-metiers-de-la-filiere",
+            "title": "Collecte, gestion et valorisation : des activités complémentaires",
+            "excerpt": "Comprendre les liens entre les trois domaines d’activité représentés par la fédération.",
+            "content": "<p>Un déchet doit être pris en charge sur tout son parcours. La collecte permet de le retirer des lieux de vie. Le tri et la gestion orientent ensuite les matières vers une solution adaptée. La valorisation cherche à réutiliser ou transformer celles qui peuvent l’être.</p><p>La fédération rapproche des compétences complémentaires. La qualité du tri conditionne les possibilités de récupération des matières.</p>",
+            "status": "published",
+            "posted_at": "2026-10-03 21:41:45",
+            "images": "[{\"src\":\"/FECGD-DRC/site/media/illustration-metiers-20261026.png\",\"alt\":\"Illustration générée par IA : collecte, tri et récupération des matières dans un centre de valorisation.\"}]"
+        },
+        {
+            "kind": "news",
+            "slug": "caniveaux-et-dechets",
+            "title": "Pourquoi éviter l’accumulation de déchets dans les caniveaux ?",
+            "excerpt": "Les déchets abandonnés gênent l’écoulement des eaux et dégradent les espaces de vie. Retrouvez les enjeux présentés sur le site et la source OMS.",
+            "content": "<section class=\"section context-section wrap\" id=\"enjeux\" aria-labelledby=\"enjeux-title\">\n      <p class=\"eyebrow\">LES ENJEUX EN RDC</p>\n      <h2 id=\"enjeux-title\">Des conséquences sur les rues,<br>les canalisations et <em>la santé.</em></h2>\n      <p class=\"context-intro\">En RDC, améliorer la gestion des déchets répond à des difficultés visibles au quotidien. Quand les déchets s’accumulent dans les rues et les caniveaux, ils dégradent le cadre de vie et perturbent l’évacuation des eaux. Le problème dépasse donc la seule propreté.</p>\n      <div class=\"context-grid\">\n        <article><h3>Des canalisations obstruées</h3><p>Les déchets peuvent boucher les caniveaux et les conduites d’évacuation. L’eau s’écoule moins bien, stagne ou déborde lors des pluies, ce qui augmente le risque d’inondation et peut contribuer à la dégradation des routes et des ouvrages d’assainissement.</p></article>\n        <article><h3>Des risques pour la santé</h3><p>Les déchets en décomposition dégagent de mauvaises odeurs. Les dépôts attirent notamment les mouches, et les eaux stagnantes favorisent les moustiques. La contamination de l’eau, des sols ou des aliments par des agents pathogènes peut aussi exposer les habitants à des maladies.</p></article>\n        <article><h3>Des rues sales et encombrées</h3><p>Les déchets abandonnés sur les chaussées et leurs abords rendent les déplacements et l’entretien plus difficiles. Leur accumulation entretient l’insalubrité dans les quartiers et détériore les espaces utilisés chaque jour par les habitants.</p></article>\n      </div>\n      <p class=\"context-conclusion\">Pour agir sur ces conséquences, il faut assurer une continuité entre l’enlèvement des déchets, leur tri et leur traitement. C’est ce lien entre les métiers que la fédération cherche à renforcer.</p>\n      <p class=\"source-note\">Pour comprendre les liens entre déchets et santé : <a href=\"https://www.who.int/tools/compendium-on-health-and-environment/solid-waste\" target=\"_blank\" rel=\"noopener\">repères de l’Organisation mondiale de la Santé</a>.</p>\n    </section>",
+            "status": "published",
+            "posted_at": "2026-10-03 21:41:45",
+            "images": "[{\"src\":\"/FECGD-DRC/site/media/illustration-caniveaux-20261026.png\",\"alt\":\"Illustration générée par IA : des déchets obstruent un caniveau et gênent l’écoulement des eaux.\"}]"
+        },
+        {
+            "kind": "news",
+            "slug": "valoriser-les-plastiques",
+            "title": "Valoriser les plastiques : une piste à examiner selon les usages",
+            "excerpt": "L’exemple des pavés de Gjenge Makers au Kenya illustre une possibilité de transformation, avec les exigences de qualité et de sécurité propres à chaque usage.",
+            "content": "<aside class=\"innovation-note\" aria-labelledby=\"innovation-title\"><p class=\"eyebrow\">UN EXEMPLE DE VALORISATION</p><h3 id=\"innovation-title\">Transformer le plastique en matériaux utiles</h3><p>Des initiatives transforment des déchets plastiques triés en pavés, notamment en les associant à du sable. Cette approche ouvre des débouchés dans l’aménagement et la construction : une matière abandonnée peut devenir une ressource pour fabriquer un produit.</p><p>Ces usages demandent des procédés maîtrisés et des matériaux dont la qualité, la durabilité et la sécurité sont vérifiées pour l’utilisation prévue. Ils constituent une piste de valorisation, et non une solution applicable à tous les plastiques ou à tous les ouvrages.</p><p class=\"source-note\">Exemple documenté au Kenya : <a href=\"https://www.unep.org/news-and-stories/story/building-blocks-greener-nairobi\" target=\"_blank\" rel=\"noopener\">les pavés en plastique recyclé de Gjenge Makers, présentés par le PNUE</a>.</p></aside>",
+            "status": "published",
+            "posted_at": "2026-10-03 21:41:45",
+            "images": "[{\"src\":\"/FECGD-DRC/site/media/illustration-plastiques-20261026.png\",\"alt\":\"Illustration générée par IA : déchets plastiques triés et exemple conceptuel de pavés issus de leur valorisation.\"}]"
+        },
+        {
+            "kind": "news",
+            "slug": "echanges-en-images",
+            "title": "Les échanges entre les acteurs de la filière, en images",
+            "excerpt": "Une sélection de photographies des rencontres de la fédération.",
+            "content": "<p>Ces photographies fournies par la fédération illustrent des temps de rencontre entre les participants.</p><div id='gallery-1' class='gallery galleryid-20 gallery-columns-3 gallery-size-thumbnail'><figure class='gallery-item'>\n\t\t\t<div class='gallery-icon landscape'>\n\t\t\t\t<a href='/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-13.webp'><img width=\"150\" height=\"113\" src=\"/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-13.webp\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Participants à une rencontre de la fédération — photo 13\" decoding=\"async\" loading=\"lazy\" /></a>\n\t\t\t</div></figure><figure class='gallery-item'>\n\t\t\t<div class='gallery-icon landscape'>\n\t\t\t\t<a href='/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-14.webp'><img width=\"150\" height=\"113\" src=\"/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-14.webp\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Participants à une rencontre de la fédération — photo 14\" decoding=\"async\" loading=\"lazy\" /></a>\n\t\t\t</div></figure><figure class='gallery-item'>\n\t\t\t<div class='gallery-icon landscape'>\n\t\t\t\t<a href='/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-15.webp'><img width=\"150\" height=\"113\" src=\"/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-15.webp\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Participants à une rencontre de la fédération — photo 15\" decoding=\"async\" loading=\"lazy\" /></a>\n\t\t\t</div></figure><figure class='gallery-item'>\n\t\t\t<div class='gallery-icon landscape'>\n\t\t\t\t<a href='/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-16.webp'><img width=\"150\" height=\"113\" src=\"/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-16.webp\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Participants à une rencontre de la fédération — photo 16\" decoding=\"async\" loading=\"lazy\" /></a>\n\t\t\t</div></figure><figure class='gallery-item'>\n\t\t\t<div class='gallery-icon landscape'>\n\t\t\t\t<a href='/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-17.webp'><img width=\"150\" height=\"113\" src=\"/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-17.webp\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Participants à une rencontre de la fédération — photo 17\" decoding=\"async\" loading=\"lazy\" /></a>\n\t\t\t</div></figure><figure class='gallery-item'>\n\t\t\t<div class='gallery-icon landscape'>\n\t\t\t\t<a href='/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-18.webp'><img width=\"150\" height=\"113\" src=\"/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-18.webp\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Participants à une rencontre de la fédération — photo 18\" decoding=\"async\" loading=\"lazy\" /></a>\n\t\t\t</div></figure><figure class='gallery-item'>\n\t\t\t<div class='gallery-icon landscape'>\n\t\t\t\t<a href='/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-19.webp'><img width=\"150\" height=\"113\" src=\"/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-19.webp\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Participants à une rencontre de la fédération — photo 19\" decoding=\"async\" loading=\"lazy\" /></a>\n\t\t\t</div></figure><figure class='gallery-item'>\n\t\t\t<div class='gallery-icon landscape'>\n\t\t\t\t<a href='/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-20.webp'><img width=\"150\" height=\"113\" src=\"/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-20.webp\" class=\"attachment-thumbnail size-thumbnail\" alt=\"Participants à une rencontre de la fédération — photo 20\" decoding=\"async\" loading=\"lazy\" /></a>\n\t\t\t</div></figure>\n\t\t</div>\n",
+            "status": "published",
+            "posted_at": "2026-10-03 21:41:45",
+            "images": "[{\"src\":\"\\/FECGD-DRC\\/site\\/dist\\/assets\\/wp-media\\/2026\\/10\\/rencontre-fecgd-13.webp\",\"alt\":\"Participants \\u00e0 une rencontre de la f\\u00e9d\\u00e9ration \\u2014 photo 13\"},{\"src\":\"\\/FECGD-DRC\\/site\\/dist\\/assets\\/wp-media\\/2026\\/10\\/rencontre-fecgd-14.webp\",\"alt\":\"Participants \\u00e0 une rencontre de la f\\u00e9d\\u00e9ration \\u2014 photo 14\"},{\"src\":\"\\/FECGD-DRC\\/site\\/dist\\/assets\\/wp-media\\/2026\\/10\\/rencontre-fecgd-15.webp\",\"alt\":\"Participants \\u00e0 une rencontre de la f\\u00e9d\\u00e9ration \\u2014 photo 15\"},{\"src\":\"\\/FECGD-DRC\\/site\\/dist\\/assets\\/wp-media\\/2026\\/10\\/rencontre-fecgd-16.webp\",\"alt\":\"Participants \\u00e0 une rencontre de la f\\u00e9d\\u00e9ration \\u2014 photo 16\"},{\"src\":\"\\/FECGD-DRC\\/site\\/dist\\/assets\\/wp-media\\/2026\\/10\\/rencontre-fecgd-17.webp\",\"alt\":\"Participants \\u00e0 une rencontre de la f\\u00e9d\\u00e9ration \\u2014 photo 17\"},{\"src\":\"\\/FECGD-DRC\\/site\\/dist\\/assets\\/wp-media\\/2026\\/10\\/rencontre-fecgd-18.webp\",\"alt\":\"Participants \\u00e0 une rencontre de la f\\u00e9d\\u00e9ration \\u2014 photo 18\"},{\"src\":\"\\/FECGD-DRC\\/site\\/dist\\/assets\\/wp-media\\/2026\\/10\\/rencontre-fecgd-19.webp\",\"alt\":\"Participants \\u00e0 une rencontre de la f\\u00e9d\\u00e9ration \\u2014 photo 19\"},{\"src\":\"\\/FECGD-DRC\\/site\\/dist\\/assets\\/wp-media\\/2026\\/10\\/rencontre-fecgd-20.webp\",\"alt\":\"Participants \\u00e0 une rencontre de la f\\u00e9d\\u00e9ration \\u2014 photo 20\"}]"
+        },
+        {
+            "kind": "activity",
+            "slug": "collecte-des-d-echets",
+            "title": "Collecte des déchets",
+            "excerpt": "La collecte consiste à récupérer les déchets là où ils sont produits, puis à les acheminer vers les lieux de regroupement ou de traitement. Elle constitue le point de départ de leur prise en charge.",
+            "content": "<p>La collecte consiste à récupérer les déchets là où ils sont produits, puis à les acheminer vers les lieux de regroupement ou de traitement. Elle constitue le point de départ de leur prise en charge.</p>",
+            "status": "published",
+            "posted_at": "2026-10-03 21:34:36",
+            "images": "[]"
+        },
+        {
+            "kind": "activity",
+            "slug": "gestion-des-d-echets",
+            "title": "Gestion des déchets",
+            "excerpt": "La gestion organise l’ensemble du parcours : tri, stockage, transport et orientation vers les traitements adaptés. Elle relie les différentes interventions et concerne aussi les déchets qui ne peuvent pas être valorisés.",
+            "content": "<p>La gestion organise l’ensemble du parcours : tri, stockage, transport et orientation vers les traitements adaptés. Elle relie les différentes interventions et concerne aussi les déchets qui ne peuvent pas être valorisés.</p>",
+            "status": "published",
+            "posted_at": "2026-10-03 21:34:36",
+            "images": "[]"
+        },
+        {
+            "kind": "activity",
+            "slug": "valorisation-des-d-echets",
+            "title": "Valorisation des déchets",
+            "excerpt": "Après le tri, une partie des déchets peut servir à fabriquer de nouveaux produits. Certains plastiques peuvent ainsi entrer dans la fabrication de pavés ou d’autres matériaux, tandis que des déchets organiques peuvent être compostés. Le débouché dépend de la matière et des procédés disponibles.",
+            "content": "<p>Après le tri, une partie des déchets peut servir à fabriquer de nouveaux produits. Certains plastiques peuvent ainsi entrer dans la fabrication de pavés ou d’autres matériaux, tandis que des déchets organiques peuvent être compostés. Le débouché dépend de la matière et des procédés disponibles.</p>",
+            "status": "published",
+            "posted_at": "2026-10-03 21:34:36",
+            "images": "[]"
+        },
+        {
+            "kind": "news",
+            "slug": "ngiri-ngiri-commune-propre-centre-transfert",
+            "title": "À Ngiri-Ngiri, la bataille pour une commune propre se joue désormais sur le terrain",
+            "excerpt": "À Ngiri-Ngiri, autorités et acteurs de l’assainissement préparent le fonctionnement du centre de transfert des déchets. Retour sur la concertation du 21 octobre 2026.",
+            "content": "<p>Le 21 octobre 2026, une rencontre à la maison communale de Ngiri-Ngiri a réuni la REGEDEK, les autorités locales et des acteurs de l’assainissement. Selon Green Impact TV, des représentants de la fédération et de Green Coop ont participé aux échanges.</p><h2>Préparer le fonctionnement du centre de transfert</h2><p>Les participants ont abordé la coordination de la collecte, l’organisation des équipes et la contribution des ménages au financement du service. La rencontre visait la mise en service du centre de transfert aménagé par la ville de Kinshasa.</p><p>Une visite du site a suivi la réunion. Cette étape de préparation doit encore se traduire en collecte régulière et en interventions coordonnées dans les quartiers.</p><div class=\"gallery gallery-columns-2\"><figure class=\"gallery-item\"><div class=\"gallery-icon\"><a href=\"/FECGD-DRC/site/media/ngiri-ngiri-greenimpact-241-01.jpg\"><img src=\"/FECGD-DRC/site/media/ngiri-ngiri-greenimpact-241-01.jpg\" alt=\"Participants à la rencontre de Ngiri-Ngiri, photographie publiée par Green Impact TV.\" loading=\"lazy\"></a></div><figcaption>Photo : Green Impact TV.</figcaption></figure><figure class=\"gallery-item\"><div class=\"gallery-icon\"><a href=\"/FECGD-DRC/site/media/ngiri-ngiri-greenimpact-241-02.jpg\"><img src=\"/FECGD-DRC/site/media/ngiri-ngiri-greenimpact-241-02.jpg\" alt=\"Visite du site de transfert, photographie publiée par Green Impact TV.\" loading=\"lazy\"></a></div><figcaption>Photo : Green Impact TV.</figcaption></figure></div><p>Résumé d’un article de Serge GATA, Green Impact TV, publié le 21 octobre 2026 à 17 h 59.</p><p><a class=\"inline-link\" href=\"https://www.greenimpacttv.com/article.php?id=241\" target=\"_blank\" rel=\"noopener noreferrer\">Lire l’article complet sur Green Impact TV ↗</a></p>",
+            "status": "published",
+            "posted_at": "2026-10-21 17:59:00",
+            "images": "[{\"src\":\"/FECGD-DRC/site/media/ngiri-ngiri-greenimpact-241-01.jpg\",\"alt\":\"Participants à la rencontre de Ngiri-Ngiri, photographie publiée par Green Impact TV.\",\"credit\":\"Green Impact TV\"},{\"src\":\"/FECGD-DRC/site/media/ngiri-ngiri-greenimpact-241-02.jpg\",\"alt\":\"Visite du site de transfert, photographie publiée par Green Impact TV.\",\"credit\":\"Green Impact TV\"}]"
+        }
+    ],
+    "media": [
+        {
+            "src": "/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-20.webp",
+            "alt": "Participants à une rencontre de la fédération — photo 20"
+        },
+        {
+            "src": "/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-19.webp",
+            "alt": "Participants à une rencontre de la fédération — photo 19"
+        },
+        {
+            "src": "/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-18.webp",
+            "alt": "Participants à une rencontre de la fédération — photo 18"
+        },
+        {
+            "src": "/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-17.webp",
+            "alt": "Participants à une rencontre de la fédération — photo 17"
+        },
+        {
+            "src": "/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-16.webp",
+            "alt": "Participants à une rencontre de la fédération — photo 16"
+        },
+        {
+            "src": "/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-15.webp",
+            "alt": "Participants à une rencontre de la fédération — photo 15"
+        },
+        {
+            "src": "/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-14.webp",
+            "alt": "Participants à une rencontre de la fédération — photo 14"
+        },
+        {
+            "src": "/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-13.webp",
+            "alt": "Participants à une rencontre de la fédération — photo 13"
+        },
+        {
+            "src": "/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-12.webp",
+            "alt": "Première journée du 26 septembre 2026 — photo 12"
+        },
+        {
+            "src": "/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-11.webp",
+            "alt": "Première journée du 26 septembre 2026 — photo 11"
+        },
+        {
+            "src": "/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-10.webp",
+            "alt": "Première journée du 26 septembre 2026 — photo 10"
+        },
+        {
+            "src": "/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-09.webp",
+            "alt": "Première journée du 26 septembre 2026 — photo 9"
+        },
+        {
+            "src": "/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-08.webp",
+            "alt": "Participants à une rencontre de la fédération — photo 8"
+        },
+        {
+            "src": "/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-07.webp",
+            "alt": "Participants à une rencontre de la fédération — photo 7"
+        },
+        {
+            "src": "/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-06.webp",
+            "alt": "Participants à une rencontre de la fédération — photo 6"
+        },
+        {
+            "src": "/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-05.webp",
+            "alt": "Participants à une rencontre de la fédération — photo 5"
+        },
+        {
+            "src": "/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-04.webp",
+            "alt": "Participants à une rencontre de la fédération — photo 4"
+        },
+        {
+            "src": "/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-03.webp",
+            "alt": "Participants à une rencontre de la fédération — photo 3"
+        },
+        {
+            "src": "/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-02.webp",
+            "alt": "Participants à une rencontre de la fédération — photo 2"
+        },
+        {
+            "src": "/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-01.webp",
+            "alt": "Participants à une rencontre de la fédération — photo 1"
+        },
+        {
+            "src": "/FECGD-DRC/site/media/illustration-metiers-20261026.png",
+            "alt": "Illustration générée par IA : collecte, tri et récupération des matières dans un centre de valorisation."
+        },
+        {
+            "src": "/FECGD-DRC/site/media/illustration-caniveaux-20261026.png",
+            "alt": "Illustration générée par IA : des déchets obstruent un caniveau et gênent l’écoulement des eaux."
+        },
+        {
+            "src": "/FECGD-DRC/site/media/illustration-plastiques-20261026.png",
+            "alt": "Illustration générée par IA : déchets plastiques triés et exemple conceptuel de pavés issus de leur valorisation."
+        },
+        {
+            "src": "/FECGD-DRC/site/media/ngiri-ngiri-greenimpact-241-01.jpg",
+            "alt": "Participants à la rencontre de Ngiri-Ngiri, photographie publiée par Green Impact TV.",
+            "credit": "Green Impact TV"
+        },
+        {
+            "src": "/FECGD-DRC/site/media/ngiri-ngiri-greenimpact-241-02.jpg",
+            "alt": "Visite du site de transfert, photographie publiée par Green Impact TV.",
+            "credit": "Green Impact TV"
+        }
+    ]
+}

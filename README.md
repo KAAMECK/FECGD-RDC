@@ -1,18 +1,10 @@
-# FECGD-RDC
+# FECGD RDC
 
-Site vitrine en français pour la Fédération des entreprises de collecte, de gestion et de valorisation des déchets de la République démocratique du Congo.
+Site institutionnel avec administration dédiée aux actualités, activités et pages. Application PHP et base SQLite privée. Apache suffit en local ; MySQL n'est plus nécessaire.
 
-## Structure
+Site : http://localhost/FECGD-DRC/
+Administration : http://localhost/FECGD-DRC/admin/
 
-- `site/dist/` : site statique prêt à servir, avec ses images, styles et scripts.
-- `Medias/` : logos originaux fournis pour le projet.
-- `index.php` : redirection d’accueil pour une installation sous Apache/XAMPP.
-- `site/README.md` : informations sur le contenu, les médias et la personnalisation.
+Voir cms/README.md et le Guide d'utilisation intégré à l'administration. Les accès privés sont enregistrés dans local-private/acces-administration.txt.
 
-## Ouvrir le site
-
-Avec XAMPP, activer Apache et ouvrir `http://localhost/FECGD-DRC/`.
-
-Sans PHP, servir directement le dossier `site/dist/` avec un serveur HTTP statique. Aucune installation de dépendances ni compilation n’est nécessaire.
-
-Les textes de présentation sont des propositions éditoriales fondées sur les logos fournis et restent à valider par la fédération. Les coordonnées officielles pourront être ajoutées lorsqu’elles seront disponibles.
+Les données confidentielles, demandes, identifiants et sauvegardes restent hors du dépôt et des archives publiques. L'administration complète nécessite un hébergement PHP ; la copie HTML sur Cloudflare reste un aperçu. Aucun achat, push ou déploiement n'est déclenché automatiquement.
