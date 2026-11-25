@@ -6,7 +6,7 @@ from urllib.parse import unquote
 root = Path(__file__).resolve().parent.parent
 public = root / 'site/dist'
 destination = root / 'output/fecgd-rdc-pages.zip'
-allowed = {'.css', '.js', '.png', '.jpg', '.jpeg', '.webp', '.gif', '.svg', '.woff', '.woff2'}
+allowed = {'.css', '.js', '.png', '.jpg', '.jpeg', '.webp', '.gif', '.svg', '.woff', '.woff2', '.mp4'}
 pages = json.loads((public / 'generated-pages.json').read_text(encoding='utf-8'))
 files = []
 for item in pages:

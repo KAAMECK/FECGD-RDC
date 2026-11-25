@@ -17,7 +17,7 @@ foreach(query("SELECT * FROM contents WHERE status='published' AND posted_at<=? 
 }
 foreach(['cms/assets'=>'assets/cms','site/media'=>'assets/uploads'] as $from=>$to) {
     foreach(new RecursiveIteratorIterator(new RecursiveDirectoryIterator(ROOT.'/'.$from,FilesystemIterator::SKIP_DOTS)) as $file) {
-        if(!in_array(strtolower($file->getExtension()),['css','js','jpg','jpeg','png','webp'],true))continue;
+        if(!in_array(strtolower($file->getExtension()),['css','js','jpg','jpeg','png','webp','mp4'],true))continue;
         $relative=substr($file->getPathname(),strlen(ROOT.'/'.$from)+1);$dest=ROOT.'/site/dist/'.$to.'/'.$relative;
         if(!is_dir(dirname($dest)))mkdir(dirname($dest),0755,true);
         if(is_file($dest)&&hash_file('sha256',$file->getPathname())===hash_file('sha256',$dest))continue;

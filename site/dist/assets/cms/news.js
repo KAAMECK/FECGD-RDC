@@ -18,7 +18,7 @@ document.querySelectorAll('.news-carousel').forEach(carousel => {
 });
 
 // Full-size viewing without leaving the article; Escape closes the photo.
-const photoLinks = document.querySelectorAll('.article-body .gallery a, .article-body a.story-photo');
+const photoLinks = document.querySelectorAll('.article-body .gallery a, .article-body figure a, .article-body a.story-photo');
 if (photoLinks.length && typeof HTMLDialogElement !== 'undefined') {
   const viewer = document.createElement('dialog');
   viewer.className = 'photo-viewer';

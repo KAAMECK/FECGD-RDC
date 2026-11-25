@@ -1,0 +1,141 @@
+/* FECGD-RDC — environmental professions, institutional confidence.
+   Shared palette for the public site and its private administration. */
+:root{
+  --fecgd-forest:#124b3a;
+  --fecgd-blue:#174c81;
+  --fecgd-navy:#173e5b;
+  --fecgd-ink:#193a30;
+  --fecgd-muted:#4e655d;
+  --fecgd-sage:#d1e5ca;
+  --fecgd-surface:#eff5f1;
+  --fecgd-canvas:#f7faf8;
+  --fecgd-line:#d4e1d9;
+}
+.site-ui,.admin-ui{
+  --green:var(--fecgd-forest);--ink:var(--fecgd-ink);--muted:var(--fecgd-muted);
+  --lime:var(--fecgd-sage);--line:var(--fecgd-line);--surface:var(--fecgd-surface);
+  --brand-blue:var(--fecgd-blue);--radius:16px;
+}
+.site-ui{background:#fff;color:var(--ink);line-height:1.75}
+.site-ui :is(h1,h2,h3){letter-spacing:-.035em;font-weight:700}
+.site-ui :is(a,button,input,select,textarea,summary):focus-visible{outline:3px solid var(--brand-blue);outline-offset:5px}
+.topbar{background:var(--green);color:#fff}
+.header{border-bottom:1px solid var(--line);box-shadow:none;background:#fff}
+.brand-label strong{color:var(--brand-blue);letter-spacing:-.025em}
+.nav-wrap nav>a{font-weight:650}
+.nav-wrap nav>a.active:not(.nav-cta){color:var(--brand-blue)}
+.nav-wrap nav>a.active::after{background:var(--brand-blue)}
+.nav-wrap nav>a.nav-cta{background:var(--green);border-color:var(--green);border-radius:7px}
+.nav-wrap nav>a.nav-cta:hover{background:#0b382b}
+.site-ui .eyebrow{color:var(--brand-blue);font-weight:650;letter-spacing:.025em}
+.site-ui .button{font-weight:650;border-radius:7px;box-shadow:none}
+.site-ui .button:hover{box-shadow:none;transform:translateY(-1px)}
+.site-ui .lime{background:var(--lime);color:#163b2c}
+.site-ui .inline-link{color:var(--green);border-bottom-color:#98bca6}
+.hero{background:var(--fecgd-canvas);border-bottom:1px solid var(--line)}
+.hero h1{font-weight:750;letter-spacing:-.045em;line-height:1.13}
+.hero h1 em{font-style:normal}
+.hero .eyebrow.light{color:var(--brand-blue);letter-spacing:.04em}
+.hero .eyebrow.light>span{background:var(--green)}
+.hero-image{border-radius:16px 0 0 16px}
+.hero-caption{background:var(--fecgd-navy);border-radius:0 10px 10px 0;border-left:3px solid var(--lime)}
+.hero-caption .caption-line{display:none}
+.hero-bottom{border-color:var(--line)}
+.hero .button.lime{background:var(--green);color:white}
+.hero .button.lime:hover{background:#0b382b}
+.domain-shortcuts{border-bottom:1px solid var(--line)}
+.domain-shortcuts a{font-size:15px;color:var(--green)}
+.domain-shortcuts a span{color:var(--brand-blue)}
+.principles article>span{color:var(--brand-blue);font-variant-numeric:tabular-nums}
+.home-next h2{color:var(--green);line-height:1.2}
+.home-next:has(+.home-next)>.button{background:var(--surface);border-color:var(--line)}
+.news-card{border-color:var(--line);border-radius:14px;background:white}
+.news-card:hover{border-color:#97b5a7;box-shadow:0 8px 25px #193a3008}
+.news-category{color:var(--brand-blue);font-weight:700;letter-spacing:.01em}
+.news-card h2 a:hover{color:var(--brand-blue)}
+.news-card time{font-size:12px}
+.news-card-content{padding:30px}
+.together{background:var(--green);border-radius:16px}
+.together :is(h2,p){color:#fff}
+.page-heading{position:relative;background:var(--fecgd-navy);color:white;border:0;border-radius:16px;padding:44px 46px;margin-top:34px;margin-bottom:42px}
+.page-heading::before{content:"";position:absolute;left:0;top:38px;bottom:38px;width:4px;background:var(--lime);border-radius:0 3px 3px 0}
+.page-heading h1{color:white;font-size:clamp(34px,4vw,52px);line-height:1.12;margin-top:12px}
+.page-heading .eyebrow{color:#d1e5ef;margin:0}
+.page-heading .page-lead{color:#e0eaf0;max-width:66ch;font-size:17px;line-height:1.7;margin-top:20px}
+.institution-overview{gap:60px;margin-bottom:42px}
+.institution-overview-copy>p:not(.eyebrow){color:var(--muted)}
+.institution-photo img{border-radius:14px}
+.institution-photo figcaption{color:var(--muted);font-size:13px}
+.institution-facts{background:var(--surface);border:0;border-radius:12px;padding:25px 28px;gap:30px}
+.institution-facts dt{color:var(--brand-blue);font-size:13px}
+.institution-facts dd{font-size:15px}
+.institution-index{border-left:2px solid #aecbbc;padding-left:24px}
+.institution-index .eyebrow{font-size:13px}
+.institution-index a{font-weight:550}
+.institution-section{border-color:var(--line)}
+.institution-section:target h2{color:var(--brand-blue)}
+.institution-cta{background:var(--surface);border:1px solid var(--line);border-radius:14px}
+.institution-cta h2{max-width:28ch}
+.contact-aside{background:var(--surface);border:0;border-top:3px solid var(--brand-blue);border-radius:0 0 14px 14px;padding:30px}
+.contact-aside h2{font-size:26px;line-height:1.3}
+.contact-channel{border-color:#cadbd0}
+.contact-direct{font-size:clamp(16px,1.45vw,20px);font-weight:650}
+.fecgd-form{background:white;border:1px solid #bdcfc3;border-radius:12px;padding:30px}
+.fecgd-form :is(input:not([type=checkbox]),select,textarea){border-color:#91aa9b;border-radius:6px}
+.fecgd-form input[type=checkbox]{accent-color:var(--green)}
+.fecgd-form :is(input,select,textarea):focus{border-color:var(--brand-blue);box-shadow:0 0 0 3px #174c811a}
+.fecgd-form .button.lime{background:var(--green);color:white}
+.faq-list details{border-radius:10px;border-color:var(--line)}
+.faq-list details[open]{background:var(--surface);border-color:#a9c2b2}
+.faq-list summary{color:var(--green)}
+.article-shell .article-intro h1{color:var(--green);font-weight:700;letter-spacing:-.035em}
+.article-shell .breadcrumbs{color:var(--muted)}
+.article-primary-video{background:var(--fecgd-navy);box-shadow:none;border-radius:14px}
+.article-tools button{border-radius:7px}
+.article-related h2{color:var(--green)}
+.site-ui .footer{background:var(--green);border:0;border-radius:16px;padding:34px 38px 0;margin-bottom:24px;color:white}
+.footer .footer-main p{color:#e1eee7;font-size:14px}
+.footer .footer-main .brand{background:white;border-radius:50%;padding:6px;flex-shrink:0}
+.footer .brand img{width:76px;height:76px;border-radius:50%}
+.footer :is(a,.footer-bottom){color:#e1eee7}
+.footer .footer-links{border-color:#ffffff30;font-size:14px}
+.footer .footer-bottom{border-color:#ffffff30;font-size:12px}
+.footer .footer-links a:hover,.footer a:hover{color:#fff}
+.footer :is(a,button):focus-visible{outline-color:#d1e5ef}
+/* Private workspace shares the identity, while preserving semantic request statuses. */
+.admin-ui{background:var(--fecgd-canvas);font-family:"Segoe UI",system-ui,sans-serif;line-height:1.65}
+.admin-ui :is(h1,h2,h3){color:var(--ink);letter-spacing:-.025em;font-weight:650}
+.admin-ui .sidebar{background:var(--green);padding:28px 20px}
+.admin-ui .sidebar>img{background:#fff;padding:5px;width:68px;height:auto}
+.admin-ui .sidebar strong{font-weight:650;font-size:16px}
+.admin-ui .sidebar nav a{font-size:14px;border-radius:7px;border-left:3px solid transparent}
+.admin-ui .sidebar nav a.active{background:#ffffff15;border-left-color:var(--lime)}
+.admin-ui .workspace{padding-top:30px}
+.admin-ui .workspace>header{border-bottom:1px solid var(--line);padding-bottom:12px}
+.admin-ui .eyebrow{color:var(--brand-blue);letter-spacing:.025em;font-weight:650;font-size:12px}
+.admin-ui .panel{border-radius:12px;border-color:var(--line);box-shadow:none}
+.admin-ui :is(input:not([type=checkbox]),textarea,select){border-color:#91aa9b;border-radius:6px}
+.admin-ui :is(a,button,input,textarea,select,summary):focus-visible{outline:3px solid var(--brand-blue);outline-offset:3px}
+.admin-ui .sidebar :is(a,button):focus-visible{outline-color:#d1e5ef}
+.admin-ui .primary{background:var(--green)!important;border-color:var(--green)!important}
+.admin-ui .tiles a{border-top:3px solid var(--brand-blue)}
+.admin-ui .tiles strong{color:var(--green)}
+.admin-ui .badge{background:var(--surface);color:var(--green)}
+.admin-ui .hint{color:var(--muted);font-size:14px}
+.admin-ui .request-center{--request-blue:var(--brand-blue);--request-muted:var(--muted);--request-line:var(--line)}
+.admin-ui .login{border-top:4px solid var(--brand-blue)}
+@media(max-width:1150px){.nav-wrap nav{gap:16px}.news-card-content{padding:25px}}
+@media(max-width:900px){.institution-overview{gap:32px}.page-heading{padding:34px;margin-top:26px;margin-bottom:32px}.nav-wrap nav{background:white}.contact-aside{padding:26px}.site-ui .footer{padding:28px 28px 0}.admin-ui .sidebar>img{display:none}}
+@media(max-width:640px){
+ .page-heading{padding:28px 24px;border-radius:12px;margin-top:20px;margin-bottom:30px}
+ .page-heading::before{top:26px;bottom:26px;width:3px}
+ .page-heading h1{font-size:34px;letter-spacing:-.04em}.page-heading .page-lead{font-size:16px;line-height:1.65}
+ .institution-overview{gap:26px}.institution-facts{padding:24px}.institution-photo figcaption{font-size:12px}
+ .institution-index{padding-left:0;border-left:0}.institution-index a{background:white}
+ .institution-cta{padding:24px}.contact-aside{padding:24px}.fecgd-form{padding:24px 20px}
+ .site-ui .footer{padding:26px 22px 0;margin-bottom:16px;border-radius:12px}
+ .footer .footer-main{gap:18px}.footer .footer-main p{font-size:13px}.footer .brand img{width:58px;height:58px}
+ .footer .footer-links{font-size:13px}.footer .footer-bottom{font-size:11px}
+ .admin-ui .workspace{padding:20px}.admin-ui .sidebar{padding:20px}.admin-ui .sidebar nav a{font-size:13px}
+}
+@media(prefers-reduced-motion:reduce){.site-ui .button:hover{transform:none}}

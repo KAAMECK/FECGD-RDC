@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit colors="false" cacheResult="false">
+  <testsuites><testsuite name="Backend services"><file>BackendServicesTest.php</file></testsuite></testsuites>
+  <coverage processUncoveredFiles="true"><include><directory suffix=".php">../../cms/backend</directory></include><report><text outputFile="../../output/backend-coverage.txt" showUncoveredFiles="true"/><clover outputFile="../../output/backend-coverage.xml"/></report></coverage>
+</phpunit>

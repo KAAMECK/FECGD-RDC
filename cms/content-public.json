@@ -5,7 +5,7 @@
             "slug": "accueil",
             "title": "Accueil",
             "excerpt": "Les entreprises de la filière des déchets réunies en RDC.",
-            "content": "<section class=\"hero\" id=\"accueil\">\n      <div class=\"hero-image\" role=\"img\" aria-label=\"Photo de groupe des participants à une rencontre\"></div>\n      <div class=\"hero-shade\"></div>\n      <div class=\"wrap hero-inner\"><div class=\"hero-copy\">\n        <p class=\"eyebrow light\"><span></span> FECGD-RDC</p>\n        <h1>Les entreprises de la <br>filière des déchets <br><em>réunies en RDC.</em></h1>\n        <p class=\"hero-description\">La FECGD-RDC est la Fédération des entreprises de collecte, de gestion et de valorisation des déchets de la République démocratique du Congo. Elle rassemble des métiers complémentaires autour d’un même enjeu : améliorer la prise en charge des déchets.</p>\n        <div class=\"hero-actions\"><a class=\"button lime\" href=\"/FECGD-DRC/federation/\">Découvrir la Fédération <span aria-hidden=\"true\">↗</span></a><a class=\"text-link\" href=\"/FECGD-DRC/activites/\">Nos domaines d’action <span aria-hidden=\"true\">↓</span></a></div>\n      </div><div class=\"hero-caption\"><span class=\"caption-line\"></span><p>Collecte, gestion et valorisation.<br><strong>Les métiers représentés par la fédération.</strong></p></div></div>\n      <div class=\"hero-bottom wrap\"><span>FECGD-RDC · PRÉSENTATION DE LA FÉDÉRATION</span><a href=\"/FECGD-DRC/federation/\" aria-label=\"Découvrir la suite\">Défiler pour découvrir <span aria-hidden=\"true\">↓</span></a></div>\n    </section><section class=\"home-next wrap\"><p class=\"eyebrow\">LA FÉDÉRATION</p><h2>Un cadre commun pour les métiers des déchets.</h2><p>La FECGD-RDC est une association sans but lucratif de droit congolais. Établie à Kinshasa, elle a vocation à représenter, défendre et promouvoir les intérêts professionnels de ses membres à l’échelle nationale.</p><a class=\"button lime\" href=\"/FECGD-DRC/federation/\">Découvrir la fédération ↗</a></section><section class=\"home-next wrap\"><p class=\"eyebrow\">ACTUALITÉS</p><h2>La vie de la fédération.</h2>[fecgd_actualites]</section><section class=\"together wrap\"><h2>Votre activité fait partie de la filière ?</h2><p>Découvrez les métiers représentés et présentez votre organisation à la fédération.</p><a class=\"button lime\" href=\"/FECGD-DRC/adhesion/\">Préparer une demande ↗</a></section>",
+            "content": "<section class=\"hero\" id=\"accueil\">\n      <div class=\"hero-image\" role=\"img\" aria-label=\"Photo de groupe des participants à une rencontre\"></div>\n      <div class=\"hero-shade\"></div>\n      <div class=\"wrap hero-inner\"><div class=\"hero-copy\">\n        <p class=\"eyebrow light\"><span></span> FECGD-RDC</p>\n        <h1>Les entreprises de la <br>filière des déchets <br><em>réunies en RDC.</em></h1>\n        <p class=\"hero-description\">La FECGD-RDC est la Fédération des entreprises de collecte, de gestion et de valorisation des déchets de la République démocratique du Congo. Elle rassemble des métiers complémentaires autour d’un même enjeu : améliorer la prise en charge des déchets.</p>\n        <div class=\"hero-actions\"><a class=\"button lime\" href=\"/FECGD-DRC/federation/\">Qui sommes-nous ? <span aria-hidden=\"true\">↗</span></a><a class=\"text-link\" href=\"/FECGD-DRC/activites/\">Nos domaines d’action <span aria-hidden=\"true\">↓</span></a></div>\n      </div><div class=\"hero-caption\"><span class=\"caption-line\"></span><p>Collecte, gestion et valorisation.<br><strong>Les métiers représentés par la fédération.</strong></p></div></div>\n      <div class=\"hero-bottom wrap\"><span>FECGD-RDC · PRÉSENTATION DE LA FÉDÉRATION</span><a href=\"/FECGD-DRC/federation/\" aria-label=\"Découvrir la suite\">Défiler pour découvrir <span aria-hidden=\"true\">↓</span></a></div>\n    </section><section class=\"home-next wrap\"><p class=\"eyebrow\">LA FÉDÉRATION</p><h2>Un cadre commun pour les métiers des déchets.</h2><p>La FECGD-RDC est une association sans but lucratif de droit congolais. Établie à Kinshasa, elle a vocation à représenter, défendre et promouvoir les intérêts professionnels de ses membres à l’échelle nationale.</p><a class=\"button lime\" href=\"/FECGD-DRC/federation/\">Qui sommes-nous ? ↗</a></section><section class=\"home-next wrap\"><p class=\"eyebrow\">ACTUALITÉS</p><h2>La vie de la fédération.</h2>[fecgd_actualites]</section><section class=\"together wrap\"><h2>Votre activité fait partie de la filière ?</h2><p>Découvrez les métiers représentés et présentez votre organisation à la fédération.</p><a class=\"button lime\" href=\"/FECGD-DRC/adhesion/\">Préparer une demande ↗</a></section>",
             "status": "published",
             "posted_at": "2026-10-03 21:34:36",
             "images": "[]"
@@ -13,9 +13,9 @@
         {
             "kind": "page",
             "slug": "federation",
-            "title": "La Fédération",
-            "excerpt": "Découvrez la vocation, le siège et le champ d’intervention de la FECGD-RDC.",
-            "content": "<dl class=\"legal-facts\"><div><dt>Nature</dt><dd>Association sans but lucratif de droit congolais</dd></div><div><dt>Siège</dt><dd>16, avenue LOKELE (immeuble ONGENDANGENDA), quartier de la Gare, commune de la Gombe, ville-province de Kinshasa, République démocratique du Congo.</dd></div><div><dt>Champ d’intervention</dt><dd>Ensemble du territoire de la RDC</dd></div><div><dt>Vocation</dt><dd>Représenter, défendre et promouvoir les intérêts professionnels des membres</dd></div></dl><section class=\"section federation wrap\" id=\"federation\">\n      <div class=\"federation-moments\"><a class=\"story-photo\" href=\"/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-01.webp\" target=\"_blank\" rel=\"noopener\" aria-label=\"Agrandir la photo (nouvel onglet)\"><img width=\"1024\" height=\"768\" src=\"/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-01.webp\" class=\"attachment-large size-large\" alt=\"Participants réunis autour de la table\" loading=\"lazy\" /></a><div class=\"photo-signature\"><img src=\"/FECGD-DRC/site/dist/assets/emblem.webp?v=logo-officiel-20261001\" alt=\"Emblème FECGD-RDC\" width=\"100\" height=\"100\" loading=\"lazy\"><span>FECGD-RDC<br><strong>Les entreprises de la filière.</strong></span></div><a class=\"story-photo supporting-photo\" href=\"/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-07.webp\" target=\"_blank\" rel=\"noopener\" aria-label=\"Agrandir la photo (nouvel onglet)\"><img width=\"1024\" height=\"768\" src=\"/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-07.webp\" class=\"attachment-large size-large\" alt=\"Participants assis autour de la table pendant les échanges\" loading=\"lazy\" /></a></div>\n      <div class=\"federation-copy\"><p class=\"eyebrow\">LA FÉDÉRATION</p><h2>Pourquoi réunir<br>ces <em>entreprises ?</em></h2><p class=\"lead\">La collecte ne suffit pas à elle seule : les déchets doivent ensuite être triés, orientés et traités selon leur nature.</p><p>Ces tâches font intervenir des entreprises aux compétences différentes. Leur travail est lié : la manière dont un déchet est collecté et trié conditionne les possibilités de le valoriser par la suite.</p><p>C’est dans cette continuité que s’inscrit la FECGD-RDC. Sa vocation est de rapprocher les entreprises de la filière pour favoriser les échanges et une meilleure articulation de leurs activités.</p><a class=\"inline-link\" href=\"/FECGD-DRC/activites/#enjeux\">Comprendre les enjeux en RDC <span aria-hidden=\"true\">↗</span></a></div>\n    </section><h2>Une organisation professionnelle nationale</h2><p>Les statuts prévoient un cadre de concertation entre les opérateurs de la filière et les pouvoirs publics. La fédération est apolitique, non confessionnelle et sans but lucratif. Elle vise notamment la professionnalisation du secteur et l’amélioration de la qualité des services.</p>",
+            "title": "Qui sommes-nous ?",
+            "excerpt": "Notre identité, notre mission et nos objectifs au service des entreprises de la filière des déchets en RDC.",
+            "content": "<section class=\"institution-overview\" aria-labelledby=\"institution-intro-title\">\n<div class=\"institution-overview-copy\"><p class=\"eyebrow\">Les entreprises de la filière</p><h2 id=\"institution-intro-title\">Une fédération pour relier les métiers des déchets</h2>\n<p>La FECGD-RDC est la Fédération des entreprises de collecte, de gestion et de valorisation des déchets de la République démocratique du Congo.</p>\n<p>La collecte ne suffit pas à elle seule : les déchets doivent ensuite être triés, orientés et traités selon leur nature. Ces tâches font intervenir des entreprises aux compétences différentes, dont les activités sont liées.</p>\n<p>La fédération offre un cadre de concertation entre les opérateurs de la filière et les pouvoirs publics. Elle est apolitique, non confessionnelle et sans but lucratif.</p></div>\n<figure class=\"institution-photo\"><img src=\"/FECGD-DRC/site/dist/assets/wp-media/2026/10/rencontre-fecgd-01.webp\" width=\"1024\" height=\"768\" alt=\"Participants réunis autour de la table lors d’une rencontre de la fédération\" loading=\"eager\"><figcaption>Les acteurs de la filière réunis pour échanger.</figcaption></figure></section>\n<dl class=\"institution-facts\"><div><dt>Nature</dt><dd>Association sans but lucratif de droit congolais</dd></div><div><dt>Champ d’intervention</dt><dd>Ensemble du territoire de la RDC</dd></div><div><dt>Siège</dt><dd>N° 5897, 2e rue, Limete résidentiel / Petit boulevard, commune de Limete, Kinshasa, RDC.</dd></div></dl>\n[fecgd_institution_sections]\n<section class=\"institution-cta\" aria-labelledby=\"institution-cta-title\"><div><p class=\"eyebrow\">Poursuivre l’échange</p><h2 id=\"institution-cta-title\">Mieux connaître nos activités ou rejoindre la fédération</h2><p>Découvrez les métiers de la filière et les modalités de prise de contact avec notre équipe.</p></div><div class=\"institution-actions\"><a class=\"button lime\" href=\"/FECGD-DRC/activites/\">Découvrir nos activités <span aria-hidden=\"true\">↗</span></a><a class=\"inline-link\" href=\"/FECGD-DRC/adhesion/\">Demander une adhésion <span aria-hidden=\"true\">↗</span></a></div></section>",
             "status": "published",
             "posted_at": "2026-10-03 21:34:36",
             "images": "[]"
@@ -45,7 +45,7 @@
             "slug": "faq",
             "title": "Questions fréquentes",
             "excerpt": "Les réponses aux questions sur la fédération, ses activités et les demandes d’adhésion.",
-            "content": "<div class=\"faq-list\"><details><summary>Qu’est-ce que la FECGD-RDC ?</summary><p>La Fédération des entreprises de collecte, de gestion et de valorisation des déchets de la République démocratique du Congo est une association sans but lucratif de droit congolais.</p></details><details><summary>Où se trouve son siège ?</summary><p>Les bureaux se trouvent au 16, avenue LOKELE (immeuble ONGENDANGENDA), quartier de la Gare, commune de la Gombe, ville-province de Kinshasa, République démocratique du Congo. En face de la chambre froide Socimex et à côté d’ORCA.</p></details><details><summary>Dans quelles zones intervient-elle ?</summary><p>Son champ d’intervention statutaire couvre l’ensemble du territoire de la République démocratique du Congo.</p></details><details><summary>Quels métiers sont concernés ?</summary><p>La filière comprend notamment la collecte, le transport, le tri, le traitement, le recyclage et la valorisation des déchets.</p></details><details><summary>À quoi sert la fédération ?</summary><p>Elle a pour vocation de représenter, défendre et promouvoir les intérêts professionnels de ses membres, de favoriser la concertation et de contribuer à la professionnalisation des services.</p></details><details><summary>Comment présenter une demande d’adhésion ?</summary><p>Présentez votre organisation avec le formulaire d’adhésion. La fédération vous précisera les pièces à fournir et les modalités applicables. Une demande ne vaut pas admission automatique.</p></details><details><summary>La demande entraîne-t-elle une admission automatique ?</summary><p>Non. Une demande doit être examinée selon les conditions d’admission de la fédération. Les responsables de la fédération assurent le suivi de votre demande.</p></details><details><summary>Comment contacter la fédération ?</summary><p>Utilisez le formulaire de contact pour une question, une prise de contact ou une proposition de collaboration. Votre message sera enregistré pour être consulté par les responsables.</p></details><details><summary>Comment ajouter une actualité ou une photo ?</summary><p>Les responsables autorisés utilisent l’administration FECGD pour gérer les actualités, les activités et les photos.</p></details><details><summary>Comment sont utilisées les données des formulaires ?</summary><p>Les données des formulaires sont réservées aux responsables qui traitent les demandes. Les statistiques sont agrégées ; les exports d’inscriptions ne contiennent pas les emails ni les téléphones. Vous pouvez demander la correction ou la suppression de vos informations auprès du responsable du site.</p></details></div>",
+            "content": "<div class=\"faq-list\"><details><summary>Qu’est-ce que la FECGD-RDC ?</summary><p>La Fédération des entreprises de collecte, de gestion et de valorisation des déchets de la République démocratique du Congo est une association sans but lucratif de droit congolais.</p></details><details><summary>Où se trouve son siège ?</summary><p>Les bureaux se trouvent au N° 5897, 2e rue, Limete résidentiel / Petit boulevard, commune de Limete, Kinshasa, République démocratique du Congo.</p></details><details><summary>Dans quelles zones intervient-elle ?</summary><p>Son champ d’intervention statutaire couvre l’ensemble du territoire de la République démocratique du Congo.</p></details><details><summary>Quels métiers sont concernés ?</summary><p>La filière comprend notamment la collecte, le transport, le tri, le traitement, le recyclage et la valorisation des déchets.</p></details><details><summary>À quoi sert la fédération ?</summary><p>Elle a pour vocation de représenter, défendre et promouvoir les intérêts professionnels de ses membres, de favoriser la concertation et de contribuer à la professionnalisation des services.</p></details><details><summary>Comment présenter une demande d’adhésion ?</summary><p>Présentez votre organisation avec le formulaire d’adhésion. La fédération vous précisera les pièces à fournir et les modalités applicables. Une demande ne vaut pas admission automatique.</p></details><details><summary>La demande entraîne-t-elle une admission automatique ?</summary><p>Non. Une demande doit être examinée selon les conditions d’admission de la fédération. Les responsables de la fédération assurent le suivi de votre demande.</p></details><details><summary>Comment contacter la fédération ?</summary><p>Écrivez à <a href=\"mailto:contact@fecgd-drc.org\">contact@fecgd-drc.org</a> pour une question, une prise de contact ou une proposition de collaboration. Vous pouvez également utiliser le formulaire de contact sur le site complet.</p></details><details><summary>Comment ajouter une actualité ou une photo ?</summary><p>Les responsables autorisés utilisent l’administration FECGD pour gérer les actualités, les activités et les photos.</p></details><details><summary>Comment sont utilisées les données des formulaires ?</summary><p>Les données des formulaires sont réservées aux responsables qui traitent les demandes. Les statistiques sont agrégées ; les exports d’inscriptions ne contiennent pas les emails ni les téléphones. Vous pouvez demander la correction ou la suppression de vos informations auprès du responsable du site.</p></details></div>",
             "status": "published",
             "posted_at": "2026-10-03 21:34:36",
             "images": "[]"
@@ -53,9 +53,9 @@
         {
             "kind": "page",
             "slug": "contact",
-            "title": "Contact",
-            "excerpt": "Prendre contact avec la FECGD-RDC.",
-            "content": "<div class=\"fecgd-form-layout\"><div>[fecgd_contact]</div><aside class=\"contact-aside\"><h2>Échanger avec la fédération</h2><p>Pour une question sur la filière, une prise de contact ou une proposition de collaboration.</p><p><strong>Adresse :</strong> 16, avenue LOKELE (immeuble ONGENDANGENDA), quartier de la Gare, commune de la Gombe, ville-province de Kinshasa, République démocratique du Congo.</p><p><strong>Repères :</strong> En face de la chambre froide Socimex et à côté d’ORCA.</p>[fecgd_whatsapp]<p>Les coordonnées téléphoniques et électroniques seront renseignées après validation par la fédération.</p></aside></div>",
+            "title": "Nous contacter",
+            "excerpt": "Écrivez à la FECGD-RDC ou retrouvez les coordonnées de notre équipe à Kinshasa.",
+            "content": "<div class=\"fecgd-form-layout\"><section aria-labelledby=\"contact-form-heading\"><h2 id=\"contact-form-heading\">Envoyer un message</h2><p>Une question sur la filière, une proposition de partenariat ou une demande d’information ? Écrivez à notre équipe.</p>[fecgd_contact]</section><aside class=\"contact-aside\" aria-labelledby=\"contact-details-heading\"><p class=\"eyebrow\">Nos coordonnées</p><h2 id=\"contact-details-heading\">Échanger avec la fédération</h2><div class=\"contact-channel\"><p class=\"eyebrow\">Par e-mail</p><a class=\"contact-direct\" href=\"mailto:contact@fecgd-drc.org\">contact@fecgd-drc.org</a></div>[fecgd_telephone]<div class=\"contact-channel\"><p class=\"eyebrow\">Notre adresse</p><address>N° 5897, 2e rue, Limete résidentiel / Petit boulevard,<br>commune de Limete, Kinshasa,<br>République démocratique du Congo.</address></div><a class=\"inline-link\" href=\"/FECGD-DRC/federation/\">Qui sommes-nous ? <span aria-hidden=\"true\">↗</span></a></aside></div>",
             "status": "published",
             "posted_at": "2026-10-03 21:34:36",
             "images": "[]"
@@ -75,7 +75,7 @@
             "slug": "mentions-legales",
             "title": "Mentions et confidentialité",
             "excerpt": "Identité de la fédération et fonctionnement de la simulation locale.",
-            "content": "<h2>Identité de la fédération</h2><p>Fédération des entreprises de collecte, de gestion et de valorisation des déchets de la République démocratique du Congo — FECGD-RDC.</p><dl class=\"legal-facts\"><div><dt>Nature</dt><dd>Association sans but lucratif de droit congolais</dd></div><div><dt>Siège</dt><dd>16, avenue LOKELE (immeuble ONGENDANGENDA), quartier de la Gare, commune de la Gombe, ville-province de Kinshasa, République démocratique du Congo.</dd></div><div><dt>Champ d’intervention</dt><dd>Ensemble du territoire de la RDC</dd></div><div><dt>Vocation</dt><dd>Représenter, défendre et promouvoir les intérêts professionnels des membres</dd></div></dl><h2>Traitement des demandes et statistiques</h2><p>Les formulaires enregistrent les informations nécessaires au traitement de vos messages et demandes d’adhésion. Seuls les responsables autorisés peuvent consulter ces informations, suivre les demandes ou les supprimer.</p><p>Les visites locales sont comptées par sessions de 30 minutes et par pages consultées. Les adresses IP ne sont pas conservées dans les statistiques. Un cookie temporaire permet le comptage des sessions.</p><p>Le tableau Google Sheets utilise des exemples fictifs clairement identifiés. Une synchronisation réelle, si elle est activée, transmet uniquement les agrégats et les colonnes d’inscription indiquées dans l’administration, sans email ni téléphone.</p><h2>Références administratives</h2><p>Le numéro RCCM et les autres références d’enregistrement seront ajoutés après réception d’un justificatif qui les indique clairement. Le document des statuts n’est pas publié sur ce site.</p>",
+            "content": "<h2>Identité de la fédération</h2><p>Fédération des entreprises de collecte, de gestion et de valorisation des déchets de la République démocratique du Congo — FECGD-RDC.</p><dl class=\"legal-facts\"><div><dt>Nature</dt><dd>Association sans but lucratif de droit congolais</dd></div><div><dt>Siège</dt><dd>N° 5897, 2e rue, Limete résidentiel / Petit boulevard, commune de Limete, Kinshasa, République démocratique du Congo.</dd></div><div><dt>Champ d’intervention</dt><dd>Ensemble du territoire de la RDC</dd></div><div><dt>Vocation</dt><dd>Représenter, défendre et promouvoir les intérêts professionnels des membres</dd></div></dl><h2>Traitement des demandes et statistiques</h2><p>Les formulaires enregistrent les informations nécessaires au traitement de vos messages et demandes d’adhésion. Seuls les responsables autorisés peuvent consulter ces informations, suivre les demandes ou les supprimer.</p><p>Les visites locales sont comptées par sessions de 30 minutes et par pages consultées. Les adresses IP ne sont pas conservées dans les statistiques. Un cookie temporaire permet le comptage des sessions.</p><p>Le tableau Google Sheets utilise des exemples fictifs clairement identifiés. Une synchronisation réelle, si elle est activée, transmet uniquement les agrégats et les colonnes d’inscription indiquées dans l’administration, sans email ni téléphone.</p><h2>Références administratives</h2><p>Le numéro RCCM et les autres références d’enregistrement seront ajoutés après réception d’un justificatif qui les indique clairement. Le document des statuts n’est pas publié sur ce site.</p><h2>Contact de la fédération</h2><p>Pour contacter la FECGD-RDC : <a href=\"mailto:contact@fecgd-drc.org\">contact@fecgd-drc.org</a>.</p>",
             "status": "published",
             "posted_at": "2026-10-03 21:34:36",
             "images": "[]"
@@ -169,6 +169,216 @@
             "status": "published",
             "posted_at": "2026-10-21 17:59:00",
             "images": "[{\"src\":\"/FECGD-DRC/site/media/ngiri-ngiri-greenimpact-241-01.jpg\",\"alt\":\"Participants à la rencontre de Ngiri-Ngiri, photographie publiée par Green Impact TV.\",\"credit\":\"Green Impact TV\"},{\"src\":\"/FECGD-DRC/site/media/ngiri-ngiri-greenimpact-241-02.jpg\",\"alt\":\"Visite du site de transfert, photographie publiée par Green Impact TV.\",\"credit\":\"Green Impact TV\"}]"
+        },
+        {
+            "kind": "news",
+            "slug": "seic-2026-fanny-aude-salmon-entrepreneuriat-durable",
+            "title": "SEIC 2026 : Mme Fanny Aude SALMON, une voix engagée pour l’entrepreneuriat durable en RDC",
+            "excerpt": "Au SEIC 2026 à Kinshasa, Mme Fanny Aude SALMON, Directrice générale de la REGEDEK, intervient sur la durabilité et la RSE, au service d’entreprises responsables et performantes.",
+            "content": "<p>Mme Fanny Aude SALMON, Directrice générale de la REGEDEK, participe au Salon de l’Entrepreneuriat et de l’Innovation du Congo (SEIC), organisé du 21 au 22 octobre 2026 à l’Hôtel Hilton de Kinshasa.</p><p>À l’occasion de l’atelier 2, elle intervient autour du thème : <strong>« Durabilité &amp; RSE : bâtir des entreprises responsables et performantes »</strong>.</p><p>Cette participation met en lumière l’importance de la responsabilité sociétale des entreprises (RSE), de l’innovation et des pratiques durables dans la construction d’entreprises performantes, capables de contribuer au développement économique et social de la République démocratique du Congo.</p><p>À travers son engagement à la tête de la REGEDEK, la question de l’assainissement peut également être envisagée comme une opportunité de création d’emplois, de valorisation des déchets et de promotion de la dignité des Kinois.</p><p><strong>La voix féminine qui fait bouger la RDC.</strong></p><figure><a href=\"/FECGD-DRC/site/media/seic-2026-fanny-aude-salmon.jpg\"><img src=\"/FECGD-DRC/site/media/seic-2026-fanny-aude-salmon.jpg\" alt=\"Affiche du SEIC 2026 présentant Mme Fanny Salmon, Directrice générale de la REGEDEK, participante à l’atelier 2 sur la durabilité et la RSE.\" loading=\"lazy\" width=\"845\" height=\"1080\"></a><figcaption>SEIC · 21 et 22 octobre 2026 · Hôtel Hilton, Kinshasa. Affiche fournie à la fédération.</figcaption></figure><section id=\"recap-seic\"><h2>Récapitulatif vidéo : retour sur le SEIC 2026</h2><p>Dans une vidéo publiée sur la page LinkedIn de la REGEDEK, Mme Fanny Aude SALMON revient sur sa participation au salon et sur les enjeux de l’assainissement durable à Kinshasa.</p><p><a class=\"inline-link\" href=\"https://www.linkedin.com/posts/regedek_regedek-seic2026-assainissement-activity-7520080292787843072-hAKh/\" target=\"_blank\" rel=\"noopener noreferrer\">Voir le récapitulatif vidéo sur LinkedIn ↗</a></p><h3>Les publications officielles de la REGEDEK</h3><p><a class=\"inline-link\" href=\"https://www.linkedin.com/posts/regedek_regedek-seic2026-rse-activity-7517829664686669825-OK-t/\" target=\"_blank\" rel=\"noopener noreferrer\">Voir l’annonce du SEIC 2026 sur LinkedIn ↗</a></p><p><a class=\"inline-link\" href=\"https://fb.watch/v/5EBtAKUwz/\" target=\"_blank\" rel=\"noopener noreferrer\">Voir la vidéo sur Facebook ↗</a></p><p>Ensemble, construisons un entrepreneuriat responsable au service du développement durable de la RDC.</p></section>",
+            "status": "published",
+            "posted_at": "2026-10-28 14:58:38",
+            "images": "[{\"src\": \"/FECGD-DRC/site/media/seic-2026-fanny-aude-salmon.jpg\", \"alt\": \"Affiche du SEIC 2026 présentant Mme Fanny Salmon, Directrice générale de la REGEDEK, participante à l’atelier 2 sur la durabilité et la RSE.\", \"format\": \"poster\"}]"
+        },
+        {
+            "kind": "news",
+            "slug": "regedek-gestion-dechets-economie-climat",
+            "title": "Kinshasa : gestion des déchets et économie du climat au cœur des échanges",
+            "excerpt": "Retour sur la rencontre du 8 octobre 2026 entre la REGEDEK et la Ministre déléguée à la Nouvelle Économie du Climat, consacrée aux financements de l’assainissement.",
+            "content": "<p>Selon la publication de la REGEDEK, Mme Fanny Aude SALMON a rencontré Mme Arlette Bahati, Ministre déléguée à la Nouvelle Économie du Climat, le 8 octobre 2026. Les échanges ont porté sur la gestion des déchets à Kinshasa et les moyens de financer des solutions durables.</p><h2>Explorer les possibilités de financement</h2><p>La rencontre a abordé les crédits carbone et les perspectives des discussions internationales sur le climat. La REGEDEK présente ce dialogue comme une étape de coopération pour construire une réponse coordonnée aux besoins d’assainissement de la capitale.</p><div class=\"gallery gallery-columns-2\"><figure class=\"gallery-item\"><div class=\"gallery-icon\"><a href=\"/FECGD-DRC/site/media/regedek-climat-1.jpg\"><img src=\"/FECGD-DRC/site/media/regedek-climat-1.jpg\" alt=\"Rencontre sur la gestion des déchets et l’économie du climat, publiée par la REGEDEK — photographie 1\" loading=\"lazy\"></a></div><figcaption>Photographie publiée par la REGEDEK.</figcaption></figure><figure class=\"gallery-item\"><div class=\"gallery-icon\"><a href=\"/FECGD-DRC/site/media/regedek-climat-2.jpg\"><img src=\"/FECGD-DRC/site/media/regedek-climat-2.jpg\" alt=\"Rencontre sur la gestion des déchets et l’économie du climat, publiée par la REGEDEK — photographie 2\" loading=\"lazy\"></a></div><figcaption>Photographie publiée par la REGEDEK.</figcaption></figure></div><p><a class=\"inline-link\" href=\"https://www.facebook.com/share/1DKmUGRumY/\" target=\"_blank\" rel=\"noopener noreferrer\">Lire la publication originale de la REGEDEK sur Facebook ↗</a></p>",
+            "status": "published",
+            "posted_at": "2026-10-28 15:06:54",
+            "images": "[{\"src\":\"/FECGD-DRC/site/media/regedek-climat-1.jpg\",\"alt\":\"Rencontre sur la gestion des déchets et l’économie du climat, publiée par la REGEDEK — photographie 1\",\"credit\":\"Publication REGEDEK\"},{\"src\":\"/FECGD-DRC/site/media/regedek-climat-2.jpg\",\"alt\":\"Rencontre sur la gestion des déchets et l’économie du climat, publiée par la REGEDEK — photographie 2\",\"credit\":\"Publication REGEDEK\"}]"
+        },
+        {
+            "kind": "news",
+            "slug": "regedek-influenceurs-sensibilisation-salubrite",
+            "title": "Salubrité à Kinshasa : la REGEDEK mobilise les influenceurs",
+            "excerpt": "Mme Fanny Aude SALMON reçoit Murphy TSHIBANGU, alias Ghost BAZANGA MAWA, pour amplifier la sensibilisation citoyenne à la gestion responsable des déchets.",
+            "content": "<p>La REGEDEK annonce une rencontre entre sa Directrice générale, Mme Fanny Aude SALMON, et Murphy TSHIBANGU, connu sous le nom de Ghost BAZANGA MAWA. Cette démarche vise à mobiliser les acteurs du numérique pour sensibiliser les habitants de Kinshasa à une gestion responsable des déchets.</p><h2>Donner davantage de portée aux gestes de salubrité</h2><p>Les relais d’opinion peuvent contribuer à diffuser les campagnes de sensibilisation et à encourager des pratiques durables au quotidien. La publication rappelle que l’amélioration de la propreté de Kinshasa passe par une mobilisation collective.</p><div class=\"gallery gallery-columns-2\"><figure class=\"gallery-item\"><div class=\"gallery-icon\"><a href=\"/FECGD-DRC/site/media/regedek-influenceurs-1.jpg\"><img src=\"/FECGD-DRC/site/media/regedek-influenceurs-1.jpg\" alt=\"Rencontre de la REGEDEK avec Murphy Tshibangu pour la sensibilisation à la salubrité — photographie 1\" loading=\"lazy\"></a></div><figcaption>Photographie publiée par la REGEDEK.</figcaption></figure><figure class=\"gallery-item\"><div class=\"gallery-icon\"><a href=\"/FECGD-DRC/site/media/regedek-influenceurs-2.jpg\"><img src=\"/FECGD-DRC/site/media/regedek-influenceurs-2.jpg\" alt=\"Rencontre de la REGEDEK avec Murphy Tshibangu pour la sensibilisation à la salubrité — photographie 2\" loading=\"lazy\"></a></div><figcaption>Photographie publiée par la REGEDEK.</figcaption></figure></div><p><a class=\"inline-link\" href=\"https://www.facebook.com/share/1VPuQdz3Lk/\" target=\"_blank\" rel=\"noopener noreferrer\">Lire la publication originale de la REGEDEK sur Facebook ↗</a></p>",
+            "status": "published",
+            "posted_at": "2026-10-28 15:06:54",
+            "images": "[{\"src\":\"/FECGD-DRC/site/media/regedek-influenceurs-1.jpg\",\"alt\":\"Rencontre de la REGEDEK avec Murphy Tshibangu pour la sensibilisation à la salubrité — photographie 1\",\"credit\":\"Publication REGEDEK\"},{\"src\":\"/FECGD-DRC/site/media/regedek-influenceurs-2.jpg\",\"alt\":\"Rencontre de la REGEDEK avec Murphy Tshibangu pour la sensibilisation à la salubrité — photographie 2\",\"credit\":\"Publication REGEDEK\"}]"
+        },
+        {
+            "kind": "news",
+            "slug": "jideee-2026-fanny-aude-salmon-augustin-kibassa-economie-circulaire",
+            "title": "JIDEEE 2026 : Fanny Aude SALMON et Augustin KIBASSA MALIBA mobilisés pour l’économie circulaire",
+            "excerpt": "À la JIDEEE 2026, Mme Fanny Aude SALMON anime un panel sur les solutions circulaires et les opportunités de valorisation des déchets électroniques et de création d’emplois verts.",
+            "content": "<p>La Directrice générale de la REGEDEK, Mme Fanny Aude SALMON, aux côtés de M. Augustin KIBASSA MALIBA, Ministre de l’Économie numérique, a pris part à la célébration de la JIDEEE 2026, consacrée à la gestion durable des déchets électroniques.</p><p>Modératrice d’un panel sur les solutions circulaires, Mme Fanny Aude SALMON a mis en lumière les opportunités de valorisation des déchets et de création d’emplois verts.</p><p>La REGEDEK réaffirme ainsi son engagement pour une économie circulaire, créatrice d’opportunités et respectueuse de l’environnement en RDC.</p><figure><a href=\"/FECGD-DRC/site/media/jideee-2026-regedek.jpg\"><img src=\"/FECGD-DRC/site/media/jideee-2026-regedek.jpg\" alt=\"Montage photographique de la JIDEEE 2026 : photo de groupe et prises de parole autour de la gestion durable des déchets électroniques.\" width=\"1080\" height=\"1080\" loading=\"lazy\"></a><figcaption>JIDEEE 2026 — montage photographique fourni, marqué REGEDEK.</figcaption></figure>",
+            "status": "published",
+            "posted_at": "2026-10-28 15:10:02",
+            "images": "[{\"src\":\"/FECGD-DRC/site/media/jideee-2026-regedek.jpg\",\"alt\":\"Montage photographique de la JIDEEE 2026 : photo de groupe et prises de parole autour de la gestion durable des déchets électroniques.\",\"fit\":\"contain\",\"credit\":\"REGEDEK\"}]"
+        },
+        {
+            "kind": "news",
+            "slug": "le-saviez-vous-formalisation-collecte-valorisation",
+            "title": "Le saviez-vous ? Formalisation, collecte et valorisation des déchets",
+            "excerpt": "Une vidéo de la REGEDEK à partager autour de la formalisation, de la collecte et de la valorisation des déchets, de l’opportunité et de l’employabilité.",
+            "content": "<p><strong>Le saviez-vous ?</strong> Formalisation, collecte, valorisation : découvrez la vidéo de la REGEDEK consacrée à ces enjeux de la filière des déchets et aux perspectives d’opportunité et d’employabilité.</p><figure class=\"article-video\"><video controls playsinline preload=\"none\" poster=\"/FECGD-DRC/site/media/regedek-le-saviez-vous-apercu.jpg\" aria-label=\"Le saviez-vous ? — vidéo de la REGEDEK\"><source src=\"/FECGD-DRC/site/media/regedek-le-saviez-vous.mp4\" type=\"video/mp4\"><p>Votre navigateur ne permet pas de lire cette vidéo. <a href=\"/FECGD-DRC/site/media/regedek-le-saviez-vous.mp4\">Ouvrir la vidéo MP4</a>.</p></video><figcaption>Vidéo fournie · REGEDEK · durée : 4 min 28 s. Lancez la lecture pour regarder la séquence.</figcaption></figure><p><a class=\"inline-link\" target=\"_blank\" rel=\"noopener noreferrer\" href=\"/FECGD-DRC/site/media/regedek-le-saviez-vous.mp4\">Ouvrir la vidéo dans un nouvel onglet ↗</a></p><p><strong>À partager largement.</strong></p><p>#Opportunité #Employabilité #Formalisation #Collecte #Valorisation</p>",
+            "status": "published",
+            "posted_at": "2026-10-28 15:14:39",
+            "images": "[{\"src\":\"/FECGD-DRC/site/media/regedek-le-saviez-vous-apercu.jpg\",\"alt\":\"Vignette extraite de la vidéo REGEDEK « Le saviez-vous ? », consacrée à la filière des déchets.\",\"fit\":\"contain\",\"credit\":\"REGEDEK · extrait vidéo\"}]"
+        },
+        {
+            "kind": "news",
+            "slug": "green-impact-media-partager-situations-environnement",
+            "title": "Green Impact Média vous invite à partager les situations de votre environnement",
+            "excerpt": "Green Impact Média invite le public à signaler et à partager les situations observées dans son environnement.",
+            "content": "<p>Green Impact Média vous invite à partager les situations de votre environnement.</p><p>À travers cet appel, le média encourage le public à faire connaître les situations observées dans son cadre de vie et à les partager avec sa rédaction.</p><h2>Prendre contact avec Green Impact Média</h2><p>Le numéro indiqué sur le visuel est le <a href=\"tel:+243816723080\">+243 816 723 080</a>. Il s’agit du contact de Green Impact Média pour cette invitation.</p>",
+            "status": "published",
+            "posted_at": "2026-11-25 13:59:13",
+            "images": "[{\"src\": \"/FECGD-DRC/site/media/green-impact-media-alerte-environnement-20261125.png\", \"alt\": \"Affiche Green Impact Média : devenez lanceur d’alertes dans votre environnement. Contact : +243 816 723 080.\", \"format\": \"poster\", \"fit\": \"contain\"}]"
+        },
+        {
+            "kind": "news",
+            "slug": "matinee-information-entreprises-productrices-dechets-19-novembre-2026",
+            "title": "Entreprises productrices de déchets : une matinée d’information sur les missions de la REGEDEK",
+            "excerpt": "L’affiche annonçait une matinée d’information et de sensibilisation le 19 novembre 2026, de 9 h à 13 h, dans la salle de réunion de la FEC.",
+            "content": "<p>Une matinée d’information et de sensibilisation destinée aux entreprises productrices de déchets était annoncée pour le jeudi 19 novembre 2026, dans la salle de réunion de la FEC.</p><h2>Comprendre les missions de la REGEDEK</h2><p>L’objectif annoncé sur l’affiche était de mieux comprendre les missions de la Régie de gestion des déchets de Kinshasa et de renforcer la collaboration avec le secteur privé dans la gestion intégrée des déchets à Kinshasa.</p><h2>Les informations de l’annonce</h2><dl class=\"legal-facts\"><div><dt>Date annoncée</dt><dd>Jeudi 19 novembre 2026</dd></div><div><dt>Horaires annoncés</dt><dd>De 9 h à 13 h</dd></div><div><dt>Lieu annoncé</dt><dd>Salle de réunion de la FEC</dd></div></dl><h2>Contact indiqué sur l’affiche</h2><p>REGEDEK : <a href=\"mailto:contact@regedek.cd\">contact@regedek.cd</a> — <a href=\"tel:+243830001007\">+243 830 001 007</a>.</p><p class=\"source-note\">Cette publication reprend les informations de l’affiche transmise. Elle présente l’annonce de la matinée et ne constitue pas un compte rendu de sa tenue.</p>",
+            "status": "published",
+            "posted_at": "2026-11-25 13:59:13",
+            "images": "[{\"src\": \"/FECGD-DRC/site/media/regedek-fec-matinee-information-19-novembre-2026.png\", \"alt\": \"Affiche de la matinée d’information et de sensibilisation des entreprises productrices de déchets, annoncée le jeudi 19 novembre 2026 de 9 h à 13 h, salle de réunion FEC.\", \"format\": \"poster\", \"fit\": \"contain\"}]"
+        },
+        {
+            "kind": "news",
+            "slug": "sud-kivu-abeilles-pollinisation-recoltes",
+            "title": "Sud-Kivu : protéger les abeilles pour préserver les récoltes",
+            "excerpt": "Au Sud-Kivu, la diminution des abeilles suscite des inquiétudes pour les cultures et les familles rurales. Un éclairage de Green Impact Média sur le rôle des pollinisateurs.",
+            "content": "<p>Elles produisent du miel, mais leur rôle va bien au-delà. Au Sud-Kivu, la disparition progressive des abeilles pourrait fragiliser les récoltes dont dépendent des milliers de familles rurales.</p><h2>Comprendre le rôle des pollinisateurs</h2><p>Dans son article, Green Impact Média explique l’importance de la pollinisation pour les cultures et les risques que la diminution des abeilles peut représenter pour les communautés agricoles. Le média aborde aussi les menaces qui pèsent sur ces insectes et les pistes pour mieux les protéger.</p><p><a class=\"button lime\" href=\"https://www.greenimpacttv.com/article?id=289\" target=\"_blank\" rel=\"noopener noreferrer\">Lire l’article sur Green Impact Média <span aria-hidden=\"true\">↗</span></a></p><p class=\"source-note\">Source : Green Impact Média, article de Jean Iragi publié le 12 novembre 2026 à 10 h 01. Cette présentation accompagne le lien vers l’article original.</p>",
+            "status": "published",
+            "posted_at": "2026-11-25 14:01:02",
+            "images": "[{\"src\": \"/FECGD-DRC/site/media/sud-kivu-abeilles-recoltes-green-impact-20261125.png\", \"alt\": \"Visuel fourni : des abeilles sur des fleurs au premier plan et une agricultrice dans un paysage rural.\", \"credit\": \"Green Impact Média — visuel transmis\"}]"
+        },
+        {
+            "kind": "news",
+            "slug": "journal-ecologique-green-impact-replay",
+            "title": "Le journal écologique de Green Impact TV en replay",
+            "excerpt": "Retrouvez le journal écologique hebdomadaire de Green Impact TV sur YouTube.",
+            "content": "<p class=\"press-source\">Revue de presse · Green Impact TV</p>[fecgd_youtube:yZ-IUsaO3HE]<p>Si vous avez raté la diffusion du journal écologique hebdomadaire, retrouvez le replay sur la chaîne Green Impact TV.</p><p>Vous pouvez vous abonner à la chaîne depuis YouTube pour suivre ses prochaines publications.</p><p class=\"source-note\">Vidéo : « JOURNAL ECOLOGIQUE GREEN IMPACT », chaîne GREEN IMPACT TV. Le lecteur est chargé uniquement à votre demande.</p>",
+            "status": "published",
+            "posted_at": "2026-11-25 14:09:34",
+            "images": "[{\"src\": \"/FECGD-DRC/site/media/green-impact-journal-yZ-IUsaO3HE.jpg\", \"alt\": \"Vignette du Journal écologique Green Impact sur YouTube.\", \"credit\": \"Green Impact TV / YouTube\"}]"
+        },
+        {
+            "kind": "news",
+            "slug": "electrification-propre-accessible-transition-juste",
+            "title": "Une électrification propre et accessible pour une transition plus juste",
+            "excerpt": "L’électrification est présentée comme un levier pour réduire la dépendance aux combustibles fossiles et construire un modèle énergétique plus juste.",
+            "content": "<p class=\"press-source\">Revue de presse · Green Impact Média</p><p>L’électrification est présentée comme un levier pour réduire la dépendance aux combustibles fossiles et construire un modèle énergétique plus juste.</p><p>Green Impact Média relaie le plaidoyer de 350.org pour une électricité renouvelable, abordable et accessible. L’article souligne l’importance des besoins des populations et d’un accès équitable à l’énergie dans les projets de transition.</p><p><a class=\"button lime\" href=\"https://www.greenimpacttv.com/article.php?id=286\" target=\"_blank\" rel=\"noopener noreferrer\">Lire l’article sur Green Impact Média <span aria-hidden=\"true\">↗</span></a></p><p class=\"source-note\">Source : Green Impact Média. Publication originale : 10 novembre 2026 à 11 h 26. Présentation courte accompagnant le lien vers la publication originale.</p>",
+            "status": "published",
+            "posted_at": "2026-11-25 14:09:34",
+            "images": "[]"
+        },
+        {
+            "kind": "news",
+            "slug": "pavillon-rdc-alliances-investissements-cop31",
+            "title": "Un pavillon pour construire des alliances et mobiliser les investissements",
+            "excerpt": "À la COP31, le pavillon « RDC – Pays-Solution » est présenté comme un espace de dialogue et de partenariats.",
+            "content": "<p class=\"press-source\">Revue de presse · Green Impact Média</p><p>À la COP31, le pavillon « RDC – Pays-Solution » est présenté comme un espace de dialogue et de partenariats.</p><p>Green Impact Média décrit les ambitions du pavillon congolais : favoriser les échanges, rapprocher les acteurs et mobiliser des investissements autour du patrimoine naturel et de la protection des écosystèmes.</p><p><a class=\"button lime\" href=\"https://www.greenimpacttv.com/article.php?id=287\" target=\"_blank\" rel=\"noopener noreferrer\">Lire l’article sur Green Impact Média <span aria-hidden=\"true\">↗</span></a></p><p class=\"source-note\">Source : Green Impact Média. Publication originale : 10 novembre 2026 à 13 h 18. Présentation courte accompagnant le lien vers la publication originale.</p>",
+            "status": "published",
+            "posted_at": "2026-11-25 14:09:34",
+            "images": "[]"
+        },
+        {
+            "kind": "news",
+            "slug": "fadev-promesse-cause-collective",
+            "title": "FADEV : une promesse qui devient une cause collective",
+            "excerpt": "Une promesse personnelle devient un engagement collectif avec la Fondation Ailes Dado Espoir de Vie.",
+            "content": "<p class=\"press-source\">Revue de presse · Green Impact Média</p><p>Une promesse personnelle devient un engagement collectif avec la Fondation Ailes Dado Espoir de Vie.</p><p>Green Impact Média présente le lancement de la FADEV à Kinshasa et la démarche portée par Gloria Amundala. L’article raconte la transformation d’une histoire familiale en action de solidarité auprès des femmes et des familles confrontées au cancer.</p><p><a class=\"button lime\" href=\"https://www.greenimpacttv.com/article.php?id=288\" target=\"_blank\" rel=\"noopener noreferrer\">Lire l’article sur Green Impact Média <span aria-hidden=\"true\">↗</span></a></p><p class=\"source-note\">Source : Green Impact Média. Publication originale : 11 novembre 2026 à 23 h 06. Présentation courte accompagnant le lien vers la publication originale.</p>",
+            "status": "published",
+            "posted_at": "2026-11-25 14:09:34",
+            "images": "[]"
+        },
+        {
+            "kind": "news",
+            "slug": "preserver-terres-avenir-alimentaire-kinshasa",
+            "title": "Préserver les terres pour garantir l’avenir alimentaire de Kinshasa",
+            "excerpt": "Comment préserver les terres pour garantir l’avenir alimentaire de Kinshasa ? Un article de Green Impact Média.",
+            "content": "<p class=\"press-source\">Revue de presse · Green Impact Média</p><p>Comment préserver les terres pour garantir l’avenir alimentaire de Kinshasa ? Un article de Green Impact Média.</p><p>Le média relaie l’alerte du ROPAFKI sur la disparition progressive des espaces agricoles de Kinshasa. L’article aborde la protection des sites maraîchers et les enjeux de production, de revenus et d’approvisionnement alimentaire pour la capitale.</p><p><a class=\"button lime\" href=\"https://www.greenimpacttv.com/article.php?id=290\" target=\"_blank\" rel=\"noopener noreferrer\">Lire l’article sur Green Impact Média <span aria-hidden=\"true\">↗</span></a></p><p class=\"source-note\">Source : Green Impact Média. Publication originale : 12 novembre 2026 à 16 h 57. Présentation courte accompagnant le lien vers la publication originale.</p>",
+            "status": "published",
+            "posted_at": "2026-11-25 14:09:34",
+            "images": "[]"
+        },
+        {
+            "kind": "news",
+            "slug": "feuilles-route-sortie-energies-fossiles",
+            "title": "Des feuilles de route pour réduire la dépendance aux énergies fossiles",
+            "excerpt": "Les feuilles de route sont présentées comme une réponse à la dépendance énergétique et à l’instabilité des coûts des énergies fossiles.",
+            "content": "<p class=\"press-source\">Revue de presse · Green Impact Média</p><p>Les feuilles de route sont présentées comme une réponse à la dépendance énergétique et à l’instabilité des coûts des énergies fossiles.</p><p>Green Impact Média décrit les appels à traduire les engagements climatiques en stratégies nationales concrètes. L’article évoque le rôle des calendriers, des financements et du soutien politique dans la sortie progressive des combustibles fossiles.</p><p><a class=\"button lime\" href=\"https://www.greenimpacttv.com/article.php?id=294\" target=\"_blank\" rel=\"noopener noreferrer\">Lire l’article sur Green Impact Média <span aria-hidden=\"true\">↗</span></a></p><p class=\"source-note\">Source : Green Impact Média. Publication originale : 18 novembre 2026 à 9 h 24. Présentation courte accompagnant le lien vers la publication originale.</p>",
+            "status": "published",
+            "posted_at": "2026-11-25 14:09:34",
+            "images": "[]"
+        },
+        {
+            "kind": "news",
+            "slug": "cop31-transition-energetique-financements",
+            "title": "COP31 : la crédibilité de la transition se joue aussi dans les financements",
+            "excerpt": "À la COP31, la crédibilité de la transition énergétique se joue aussi dans les financements.",
+            "content": "<p class=\"press-source\">Revue de presse · Green Impact Média</p><p>À la COP31, la crédibilité de la transition énergétique se joue aussi dans les financements.</p><p>Green Impact Média revient sur les critiques de 350.org concernant le décalage entre les ambitions énergétiques affichées et les ressources financières mobilisées. L’article aborde notamment les besoins d’adaptation et de transition des pays en développement.</p><p><a class=\"button lime\" href=\"https://www.greenimpacttv.com/article.php?id=295\" target=\"_blank\" rel=\"noopener noreferrer\">Lire l’article sur Green Impact Média <span aria-hidden=\"true\">↗</span></a></p><p class=\"source-note\">Source : Green Impact Média. Publication originale : 18 novembre 2026 à 14 h 18. Présentation courte accompagnant le lien vers la publication originale.</p>",
+            "status": "published",
+            "posted_at": "2026-11-25 14:09:34",
+            "images": "[]"
+        },
+        {
+            "kind": "news",
+            "slug": "afrique-premiere-ligne-bataille-energetique",
+            "title": "L’Afrique en première ligne de la bataille énergétique",
+            "excerpt": "Transition énergétique et financements climatiques : les enjeux africains au cœur d’un article de Green Impact Média.",
+            "content": "<p class=\"press-source\">Revue de presse · Green Impact Média</p><p>Transition énergétique et financements climatiques : les enjeux africains au cœur d’un article de Green Impact Média.</p><p>Dans cet article consacré à la COP31, Green Impact Média relaie les critiques de 350.org sur les négociations énergétiques et climatiques. La publication met en perspective les engagements politiques et les moyens nécessaires pour accompagner la transition.</p><p><a class=\"button lime\" href=\"https://www.greenimpacttv.com/article.php?id=296\" target=\"_blank\" rel=\"noopener noreferrer\">Lire l’article sur Green Impact Média <span aria-hidden=\"true\">↗</span></a></p><p class=\"source-note\">Source : Green Impact Média. Publication originale : 19 novembre 2026 à 14 h 39. Présentation courte accompagnant le lien vers la publication originale.</p>",
+            "status": "published",
+            "posted_at": "2026-11-25 14:09:34",
+            "images": "[]"
+        },
+        {
+            "kind": "news",
+            "slug": "kinshasa-green-coop-dechets-biogaz-energie",
+            "title": "À Kinshasa, transformer les déchets en énergie avec le biogaz",
+            "excerpt": "À Kinshasa, l’assainissement pourrait aussi commencer par la transformation des déchets en énergie.",
+            "content": "<p class=\"press-source\">Revue de presse · Green Impact Média</p><p>À Kinshasa, l’assainissement pourrait aussi commencer par la transformation des déchets en énergie.</p><p>Green Impact Média présente l’expérimentation de Green Coop à Nganda, dans la commune de Kintambo. L’initiative explore la production de biogaz à partir de matières biodégradables humides, dans une démarche associant collecte, tri et valorisation.</p><p><a class=\"button lime\" href=\"https://www.greenimpacttv.com/article.php?id=300\" target=\"_blank\" rel=\"noopener noreferrer\">Lire l’article sur Green Impact Média <span aria-hidden=\"true\">↗</span></a></p><p class=\"source-note\">Source : Green Impact Média. Publication originale : 21 novembre 2026 à 17 h 13. Présentation courte accompagnant le lien vers la publication originale.</p>",
+            "status": "published",
+            "posted_at": "2026-11-25 14:09:34",
+            "images": "[]"
+        },
+        {
+            "kind": "news",
+            "slug": "une-ville-engloutie-en-perspective",
+            "title": "Une ville engloutie en perspective ?",
+            "excerpt": "À Bibwa Mpassa III, Green Impact Média alerte sur les inondations et les difficultés liées à l’urbanisation.",
+            "content": "<p class=\"press-source\">Revue de presse · Green Impact Média</p><p>À Bibwa Mpassa III, Green Impact Média alerte sur les inondations et les difficultés liées à l’urbanisation.</p><p>L’article décrit les inquiétudes des habitants de ce quartier de la Nsele, à Kinshasa. Il soulève les enjeux de planification urbaine, de gestion des eaux pluviales et de prévention des risques pour les habitations.</p><p><a class=\"button lime\" href=\"https://www.greenimpacttv.com/article.php?id=302\" target=\"_blank\" rel=\"noopener noreferrer\">Lire l’article sur Green Impact Média <span aria-hidden=\"true\">↗</span></a></p><p class=\"source-note\">Source : Green Impact Média. Publication originale : 21 novembre 2026 à 20 h 31. Présentation courte accompagnant le lien vers la publication originale.</p>",
+            "status": "published",
+            "posted_at": "2026-11-25 14:09:34",
+            "images": "[]"
+        },
+        {
+            "kind": "news",
+            "slug": "apres-antalya-credibilite-gouvernements",
+            "title": "L’après-Antalya, un test de crédibilité pour les gouvernements",
+            "excerpt": "Après Antalya, Green Impact Média revient sur les engagements attendus pour la transition énergétique.",
+            "content": "<p class=\"press-source\">Revue de presse · Green Impact Média</p><p>Après Antalya, Green Impact Média revient sur les engagements attendus pour la transition énergétique.</p><p>L’article présente les demandes de 350.org en faveur d’engagements concrets pour sortir des énergies fossiles. Il invite à examiner le passage des déclarations aux actions et la dimension sociale de la transition.</p><p><a class=\"button lime\" href=\"https://www.greenimpacttv.com/article.php?id=303\" target=\"_blank\" rel=\"noopener noreferrer\">Lire l’article sur Green Impact Média <span aria-hidden=\"true\">↗</span></a></p><p class=\"source-note\">Source : Green Impact Média. Publication originale : 22 novembre 2026 à 16 h 22. Présentation courte accompagnant le lien vers la publication originale.</p>",
+            "status": "published",
+            "posted_at": "2026-11-25 14:09:34",
+            "images": "[]"
+        },
+        {
+            "kind": "news",
+            "slug": "alain-bill-venga-reconnaissance-engagement-assainissement",
+            "title": "Assainissement : une reconnaissance pour l’engagement d’Alain Bill Venga",
+            "excerpt": "L’engagement en faveur de l’assainissement et de la protection de l’environnement reçoit une nouvelle reconnaissance.",
+            "content": "<p class=\"press-source\">Revue de presse · Green Impact Média</p><p>L’engagement en faveur de l’assainissement et de la protection de l’environnement reçoit une nouvelle reconnaissance.</p><p>Green Impact Média rapporte la distinction attribuée à Alain Bill Venga Bina, coordonnateur de l’OPBS, dans le secteur de l’assainissement. Le média met en lumière ses actions et la place du développement communautaire dans cet engagement.</p><p><a class=\"button lime\" href=\"https://www.greenimpacttv.com/article.php?id=304\" target=\"_blank\" rel=\"noopener noreferrer\">Lire l’article sur Green Impact Média <span aria-hidden=\"true\">↗</span></a></p><p class=\"source-note\">Source : Green Impact Média. Publication originale : 22 novembre 2026 à 21 h 44. Présentation courte accompagnant le lien vers la publication originale.</p>",
+            "status": "published",
+            "posted_at": "2026-11-25 14:09:34",
+            "images": "[]"
+        },
+        {
+            "kind": "news",
+            "slug": "eau-verte-chantier-strategique-rdc",
+            "title": "L’eau verte, un nouveau chantier stratégique pour la RDC",
+            "excerpt": "Green Impact Média présente les enjeux liés à la valorisation de l’eau verte et à la stratégie hydrique de la RDC.",
+            "content": "<p class=\"press-source\">Revue de presse · Green Impact Média</p><p>Green Impact Média présente les enjeux liés à la valorisation de l’eau verte et à la stratégie hydrique de la RDC.</p><p>Le média revient sur la préparation congolaise à la Conférence des Nations unies sur l’eau 2026. L’article aborde les questions d’assainissement, de protection des ressources et de coopération autour du capital hydrique du pays.</p><p><a class=\"button lime\" href=\"https://www.greenimpacttv.com/article.php?id=305\" target=\"_blank\" rel=\"noopener noreferrer\">Lire l’article sur Green Impact Média <span aria-hidden=\"true\">↗</span></a></p><p class=\"source-note\">Source : Green Impact Média. Publication originale : 23 novembre 2026 à 18 h 20. Présentation courte accompagnant le lien vers la publication originale.</p>",
+            "status": "published",
+            "posted_at": "2026-11-25 14:09:34",
+            "images": "[]"
         }
     ],
     "media": [
@@ -273,6 +483,65 @@
             "src": "/FECGD-DRC/site/media/ngiri-ngiri-greenimpact-241-02.jpg",
             "alt": "Visite du site de transfert, photographie publiée par Green Impact TV.",
             "credit": "Green Impact TV"
+        },
+        {
+            "src": "/FECGD-DRC/site/media/seic-2026-fanny-aude-salmon.jpg",
+            "alt": "Affiche du SEIC 2026 présentant Mme Fanny Salmon, Directrice générale de la REGEDEK, participante à l’atelier 2 sur la durabilité et la RSE.",
+            "format": "poster"
+        },
+        {
+            "src": "/FECGD-DRC/site/media/regedek-climat-1.jpg",
+            "alt": "Rencontre sur la gestion des déchets et l’économie du climat, publiée par la REGEDEK — photographie 1",
+            "credit": "Publication REGEDEK"
+        },
+        {
+            "src": "/FECGD-DRC/site/media/regedek-climat-2.jpg",
+            "alt": "Rencontre sur la gestion des déchets et l’économie du climat, publiée par la REGEDEK — photographie 2",
+            "credit": "Publication REGEDEK"
+        },
+        {
+            "src": "/FECGD-DRC/site/media/regedek-influenceurs-1.jpg",
+            "alt": "Rencontre de la REGEDEK avec Murphy Tshibangu pour la sensibilisation à la salubrité — photographie 1",
+            "credit": "Publication REGEDEK"
+        },
+        {
+            "src": "/FECGD-DRC/site/media/regedek-influenceurs-2.jpg",
+            "alt": "Rencontre de la REGEDEK avec Murphy Tshibangu pour la sensibilisation à la salubrité — photographie 2",
+            "credit": "Publication REGEDEK"
+        },
+        {
+            "src": "/FECGD-DRC/site/media/jideee-2026-regedek.jpg",
+            "alt": "Montage photographique de la JIDEEE 2026 : photo de groupe et prises de parole autour de la gestion durable des déchets électroniques.",
+            "fit": "contain",
+            "credit": "REGEDEK"
+        },
+        {
+            "src": "/FECGD-DRC/site/media/regedek-le-saviez-vous-apercu.jpg",
+            "alt": "Vignette extraite de la vidéo REGEDEK « Le saviez-vous ? », consacrée à la filière des déchets.",
+            "fit": "contain",
+            "credit": "REGEDEK · extrait vidéo"
+        },
+        {
+            "src": "/FECGD-DRC/site/media/green-impact-media-alerte-environnement-20261125.png",
+            "alt": "Affiche Green Impact Média : devenez lanceur d’alertes dans votre environnement. Contact : +243 816 723 080.",
+            "format": "poster",
+            "fit": "contain"
+        },
+        {
+            "src": "/FECGD-DRC/site/media/regedek-fec-matinee-information-19-novembre-2026.png",
+            "alt": "Affiche de la matinée d’information et de sensibilisation des entreprises productrices de déchets, annoncée le jeudi 19 novembre 2026 de 9 h à 13 h, salle de réunion FEC.",
+            "format": "poster",
+            "fit": "contain"
+        },
+        {
+            "src": "/FECGD-DRC/site/media/sud-kivu-abeilles-recoltes-green-impact-20261125.png",
+            "alt": "Visuel fourni : des abeilles sur des fleurs au premier plan et une agricultrice dans un paysage rural.",
+            "credit": "Green Impact Média — visuel transmis"
+        },
+        {
+            "src": "/FECGD-DRC/site/media/green-impact-journal-yZ-IUsaO3HE.jpg",
+            "alt": "Vignette du Journal écologique Green Impact sur YouTube.",
+            "credit": "Green Impact TV / YouTube"
         }
     ]
 }

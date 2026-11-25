@@ -1,9 +1,13 @@
 <?php
 if(PHP_SAPI!=='cli'){http_response_code(403);exit;}
-$root=dirname(__DIR__);$private=$root.'/local-private';
+$root=dirname(__DIR__);
+require_once __DIR__.'/backend/AppConfig.php';
+$installConfig=\Fecgd\Backend\AppConfig::fromEnvironment($root);
+$private=$installConfig->privateDirectory;
 if(is_file($private.'/fecgd.sqlite')){echo "Installation existante conservée.\n";exit;}
 if(!is_dir($private))mkdir($private,0700,true);
 file_put_contents($private.'/.htaccess',"Require all denied\n");
+define('FECGD_INSTALLING',true);
 require __DIR__.'/bootstrap.php';
 $seed=json_decode(file_get_contents(__DIR__.'/content-public.json'),true,512,JSON_THROW_ON_ERROR);
 db()->exec(file_get_contents(__DIR__.'/schema.sql'));

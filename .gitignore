@@ -30,3 +30,7 @@ wordpress-src/wp-config.php
 Medias/*.xlsx
 Medias/*.pdf
 output/
+
+# Captures et documents internes de messagerie
+.playwright-cli/
+Adresses Mails/

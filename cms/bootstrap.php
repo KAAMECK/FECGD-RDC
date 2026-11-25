@@ -2,13 +2,20 @@
 declare(strict_types=1);
 date_default_timezone_set('Africa/Kinshasa');
 define('ROOT', dirname(__DIR__));
-define('PRIVATE_DIR', ROOT . '/local-private');
-define('BASE_URL', '/FECGD-DRC');
+require_once __DIR__.'/backend/AppConfig.php';
+$appConfig = \Fecgd\Backend\AppConfig::fromEnvironment(ROOT);
+define('PRIVATE_DIR', $appConfig->privateDirectory);
+define('BASE_URL', $appConfig->baseUrl);
+define('FECGD_ENV', $appConfig->environment);
+require_once __DIR__.'/maintenance.php';
 if (PHP_SAPI !== 'cli') {
     ini_set('display_errors','0');
     header('X-Content-Type-Options: nosniff');
     header('Referrer-Policy: same-origin');
     header('X-Frame-Options: SAMEORIGIN');
+    ini_set('session.use_strict_mode','1');
+    ini_set('session.use_only_cookies','1');
+    ini_set('session.use_trans_sid','0');
     session_name('fecgd_admin_session');
     session_set_cookie_params(['lifetime'=>0,'path'=>BASE_URL.'/','httponly'=>true,'samesite'=>'Lax','secure'=>!empty($_SERVER['HTTPS'])&&$_SERVER['HTTPS']!=='off']);
     session_start();
@@ -16,6 +23,7 @@ if (PHP_SAPI !== 'cli') {
 function db(): PDO {
     static $pdo;
     if (!$pdo) {
+        if (!is_file(PRIVATE_DIR.'/fecgd.sqlite') && !defined('FECGD_INSTALLING')) throw new RuntimeException('Base absente : vérifiez la configuration privée avant de continuer.');
         $pdo = new PDO('sqlite:'.PRIVATE_DIR.'/fecgd.sqlite', null, null, [PDO::ATTR_ERRMODE=>PDO::ERRMODE_EXCEPTION,PDO::ATTR_DEFAULT_FETCH_MODE=>PDO::FETCH_ASSOC]);
         $pdo->exec('PRAGMA busy_timeout=5000; PRAGMA foreign_keys=ON;');
     }
@@ -31,9 +39,19 @@ function asset_url(string $path): string {
 function go(string $path): never { header('Location: '.$path, true, 303); exit; }
 function user(): ?array {
     if (!isset($_SESSION['user_id'])) return null;
-    if (time()-($_SESSION['last_active']??0)>3600) { unset($_SESSION['user_id']); return null; }
-    $_SESSION['last_active']=time();
-    return query('SELECT id,login,role FROM users WHERE id=?',[$_SESSION['user_id']])->fetch()?:null;
+    $account=query('SELECT id,login,role,password FROM users WHERE id=?',[(int)$_SESSION['user_id']])->fetch();
+    $issued=(int)($_SESSION['issued_at']??time());
+    $expired=time()-(int)($_SESSION['last_active']??0)>3600||time()-$issued>43200;
+    $signature=$account?hash('sha256',$account['password']):'';
+    if (!$account||!in_array($account['role'],['admin','editor'],true)||$expired||(isset($_SESSION['auth_signature'])&&!hash_equals($_SESSION['auth_signature'],$signature))) {
+        security_event('session_expired',(int)$_SESSION['user_id']);
+        unset($_SESSION['user_id'],$_SESSION['last_active'],$_SESSION['issued_at'],$_SESSION['auth_signature']);
+        $_SESSION['csrf']=bin2hex(random_bytes(32));
+        if(session_status()===PHP_SESSION_ACTIVE)session_regenerate_id(true);
+        return null;
+    }
+    $_SESSION['issued_at']=$issued;$_SESSION['last_active']=time();$_SESSION['auth_signature']=$signature;
+    unset($account['password']);return $account;
 }
 function csrf(): string { return $_SESSION['csrf'] ??= bin2hex(random_bytes(32)); }
 function token_input(): string { return '<input type="hidden" name="csrf" value="'.e(csrf()).'">'; }
@@ -44,14 +62,16 @@ function setting(string $name, $fallback='') { $v=query('SELECT value FROM setti
 function set_setting(string $name,$value): void { query('INSERT INTO settings(name,value) VALUES(?,?) ON CONFLICT(name) DO UPDATE SET value=excluded.value',[$name,json_encode($value,JSON_UNESCAPED_UNICODE)]); }
 function slugify(string $title): string { $s=iconv('UTF-8','ASCII//TRANSLIT//IGNORE',$title); return trim(strtolower(preg_replace('/[^a-zA-Z0-9]+/','-',$s?:'publication')),'-') ?: 'publication'; }
 function safe_uri(string $uri): bool {
-    return !preg_match('/[\x00-\x20\\\\]/',$uri) && (preg_match('#^https?://#i',$uri) || preg_match('#^(?:/|\#)#',$uri));
+    if(preg_match('/[\x00-\x20\\\\]/',$uri)||str_starts_with($uri,'//'))return false;
+    if(str_starts_with($uri,'mailto:'))return filter_var(substr($uri,7),FILTER_VALIDATE_EMAIL)!==false;
+    return (bool)(preg_match('#^https?://#i',$uri)||preg_match('#^(?:/|\#)#',$uri));
 }
 function clean_html(string $html): string {
     $doc=new DOMDocument(); libxml_use_internal_errors(true);
     $doc->loadHTML('<?xml encoding="UTF-8"><div id="editor-root">'.$html.'</div>',LIBXML_NONET|LIBXML_NOERROR|LIBXML_NOWARNING);
     $root=$doc->getElementById('editor-root');
     if (!$root) return '';
-    $allowed=['p','br','h2','h3','h4','strong','b','em','i','u','ul','ol','li','a','blockquote','div','span','section','article','aside','figure','figcaption','img','dl','dt','dd','details','summary','time','table','thead','tbody','tr','th','td'];
+    $allowed=['p','br','h2','h3','h4','strong','b','em','i','u','ul','ol','li','a','blockquote','div','span','section','article','aside','figure','figcaption','img','video','source','dl','dt','dd','details','summary','time','table','thead','tbody','tr','th','td'];
     $walk=function($node) use (&$walk,$allowed) {
         foreach (iterator_to_array($node->childNodes) as $child) {
             if ($child instanceof DOMElement) {
@@ -60,8 +80,8 @@ function clean_html(string $html): string {
                 $walk($child);
                 if (!in_array($tag,$allowed,true)) { while ($child->firstChild) $node->insertBefore($child->firstChild,$child); $node->removeChild($child); continue; }
                 foreach(iterator_to_array($child->attributes) as $attr) {
-                    if (!in_array($attr->name,['href','src','alt','title','class','width','height','datetime','id','loading'],true)) $child->removeAttribute($attr->name);
-                    elseif (in_array($attr->name,['href','src'],true) && !safe_uri($attr->value)) $child->removeAttribute($attr->name);
+                    if (!in_array($attr->name,['href','src','alt','title','class','width','height','datetime','id','loading','controls','playsinline','preload','poster','type'],true)) $child->removeAttribute($attr->name);
+                    elseif (in_array($attr->name,['href','src','poster'],true) && !safe_uri($attr->value)) $child->removeAttribute($attr->name);
                 }
                 if ($tag==='a') $child->setAttribute('rel','noopener noreferrer');
             }
